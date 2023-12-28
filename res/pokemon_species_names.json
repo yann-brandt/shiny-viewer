@@ -1,0 +1,4154 @@
+[
+    {
+      "pokemon_species_id": 1,
+      "name": "Bisasam"
+    },
+    {
+      "pokemon_species_id": 2,
+      "name": "Bisaknosp"
+    },
+    {
+      "pokemon_species_id": 3,
+      "name": "Bisaflor"
+    },
+    {
+      "pokemon_species_id": 4,
+      "name": "Glumanda"
+    },
+    {
+      "pokemon_species_id": 5,
+      "name": "Glutexo"
+    },
+    {
+      "pokemon_species_id": 6,
+      "name": "Glurak"
+    },
+    {
+      "pokemon_species_id": 7,
+      "name": "Schiggy"
+    },
+    {
+      "pokemon_species_id": 8,
+      "name": "Schillok"
+    },
+    {
+      "pokemon_species_id": 9,
+      "name": "Turtok"
+    },
+    {
+      "pokemon_species_id": 10,
+      "name": "Raupy"
+    },
+    {
+      "pokemon_species_id": 11,
+      "name": "Safcon"
+    },
+    {
+      "pokemon_species_id": 12,
+      "name": "Smettbo"
+    },
+    {
+      "pokemon_species_id": 13,
+      "name": "Hornliu"
+    },
+    {
+      "pokemon_species_id": 14,
+      "name": "Kokuna"
+    },
+    {
+      "pokemon_species_id": 15,
+      "name": "Bibor"
+    },
+    {
+      "pokemon_species_id": 16,
+      "name": "Taubsi"
+    },
+    {
+      "pokemon_species_id": 17,
+      "name": "Tauboga"
+    },
+    {
+      "pokemon_species_id": 18,
+      "name": "Tauboss"
+    },
+    {
+      "pokemon_species_id": 19,
+      "name": "Rattfratz"
+    },
+    {
+      "pokemon_species_id": 20,
+      "name": "Rattikarl"
+    },
+    {
+      "pokemon_species_id": 21,
+      "name": "Habitak"
+    },
+    {
+      "pokemon_species_id": 22,
+      "name": "Ibitak"
+    },
+    {
+      "pokemon_species_id": 23,
+      "name": "Rettan"
+    },
+    {
+      "pokemon_species_id": 24,
+      "name": "Arbok"
+    },
+    {
+      "pokemon_species_id": 25,
+      "name": "Pikachu"
+    },
+    {
+      "pokemon_species_id": 26,
+      "name": "Raichu"
+    },
+    {
+      "pokemon_species_id": 27,
+      "name": "Sandan"
+    },
+    {
+      "pokemon_species_id": 28,
+      "name": "Sandamer"
+    },
+    {
+      "pokemon_species_id": 29,
+      "name": "Nidoran?"
+    },
+    {
+      "pokemon_species_id": 30,
+      "name": "Nidorina"
+    },
+    {
+      "pokemon_species_id": 31,
+      "name": "Nidoqueen"
+    },
+    {
+      "pokemon_species_id": 32,
+      "name": "Nidoran?"
+    },
+    {
+      "pokemon_species_id": 33,
+      "name": "Nidorino"
+    },
+    {
+      "pokemon_species_id": 34,
+      "name": "Nidoking"
+    },
+    {
+      "pokemon_species_id": 35,
+      "name": "Piepi"
+    },
+    {
+      "pokemon_species_id": 36,
+      "name": "Pixi"
+    },
+    {
+      "pokemon_species_id": 37,
+      "name": "Vulpix"
+    },
+    {
+      "pokemon_species_id": 38,
+      "name": "Vulnona"
+    },
+    {
+      "pokemon_species_id": 39,
+      "name": "Pummeluff"
+    },
+    {
+      "pokemon_species_id": 40,
+      "name": "Knuddeluff"
+    },
+    {
+      "pokemon_species_id": 41,
+      "name": "Zubat"
+    },
+    {
+      "pokemon_species_id": 42,
+      "name": "Golbat"
+    },
+    {
+      "pokemon_species_id": 43,
+      "name": "Myrapla"
+    },
+    {
+      "pokemon_species_id": 44,
+      "name": "Duflor"
+    },
+    {
+      "pokemon_species_id": 45,
+      "name": "Giflor"
+    },
+    {
+      "pokemon_species_id": 46,
+      "name": "Paras"
+    },
+    {
+      "pokemon_species_id": 47,
+      "name": "Parasek"
+    },
+    {
+      "pokemon_species_id": 48,
+      "name": "Bluzuk"
+    },
+    {
+      "pokemon_species_id": 49,
+      "name": "Omot"
+    },
+    {
+      "pokemon_species_id": 50,
+      "name": "Digda"
+    },
+    {
+      "pokemon_species_id": 51,
+      "name": "Digdri"
+    },
+    {
+      "pokemon_species_id": 52,
+      "name": "Mauzi"
+    },
+    {
+      "pokemon_species_id": 53,
+      "name": "Snobilikat"
+    },
+    {
+      "pokemon_species_id": 54,
+      "name": "Enton"
+    },
+    {
+      "pokemon_species_id": 55,
+      "name": "Entoron"
+    },
+    {
+      "pokemon_species_id": 56,
+      "name": "Menki"
+    },
+    {
+      "pokemon_species_id": 57,
+      "name": "Rasaff"
+    },
+    {
+      "pokemon_species_id": 58,
+      "name": "Fukano"
+    },
+    {
+      "pokemon_species_id": 59,
+      "name": "Arkani"
+    },
+    {
+      "pokemon_species_id": 60,
+      "name": "Quapsel"
+    },
+    {
+      "pokemon_species_id": 61,
+      "name": "Quaputzi"
+    },
+    {
+      "pokemon_species_id": 62,
+      "name": "Quappo"
+    },
+    {
+      "pokemon_species_id": 63,
+      "name": "Abra"
+    },
+    {
+      "pokemon_species_id": 64,
+      "name": "Kadabra"
+    },
+    {
+      "pokemon_species_id": 65,
+      "name": "Simsala"
+    },
+    {
+      "pokemon_species_id": 66,
+      "name": "Machollo"
+    },
+    {
+      "pokemon_species_id": 67,
+      "name": "Maschock"
+    },
+    {
+      "pokemon_species_id": 68,
+      "name": "Machomei"
+    },
+    {
+      "pokemon_species_id": 69,
+      "name": "Knofensa"
+    },
+    {
+      "pokemon_species_id": 70,
+      "name": "Ultrigaria"
+    },
+    {
+      "pokemon_species_id": 71,
+      "name": "Sarzenia"
+    },
+    {
+      "pokemon_species_id": 72,
+      "name": "Tentacha"
+    },
+    {
+      "pokemon_species_id": 73,
+      "name": "Tentoxa"
+    },
+    {
+      "pokemon_species_id": 74,
+      "name": "Kleinstein"
+    },
+    {
+      "pokemon_species_id": 75,
+      "name": "Georok"
+    },
+    {
+      "pokemon_species_id": 76,
+      "name": "Geowaz"
+    },
+    {
+      "pokemon_species_id": 77,
+      "name": "Ponita"
+    },
+    {
+      "pokemon_species_id": 78,
+      "name": "Gallopa"
+    },
+    {
+      "pokemon_species_id": 79,
+      "name": "Flegmon"
+    },
+    {
+      "pokemon_species_id": 80,
+      "name": "Lahmus"
+    },
+    {
+      "pokemon_species_id": 81,
+      "name": "Magnetilo"
+    },
+    {
+      "pokemon_species_id": 82,
+      "name": "Magneton"
+    },
+    {
+      "pokemon_species_id": 83,
+      "name": "Porenta"
+    },
+    {
+      "pokemon_species_id": 84,
+      "name": "Dodu"
+    },
+    {
+      "pokemon_species_id": 85,
+      "name": "Dodri"
+    },
+    {
+      "pokemon_species_id": 86,
+      "name": "Jurob"
+    },
+    {
+      "pokemon_species_id": 87,
+      "name": "Jugong"
+    },
+    {
+      "pokemon_species_id": 88,
+      "name": "Sleima"
+    },
+    {
+      "pokemon_species_id": 89,
+      "name": "Sleimok"
+    },
+    {
+      "pokemon_species_id": 90,
+      "name": "Muschas"
+    },
+    {
+      "pokemon_species_id": 91,
+      "name": "Austos"
+    },
+    {
+      "pokemon_species_id": 92,
+      "name": "Nebulak"
+    },
+    {
+      "pokemon_species_id": 93,
+      "name": "Alpollo"
+    },
+    {
+      "pokemon_species_id": 94,
+      "name": "Gengar"
+    },
+    {
+      "pokemon_species_id": 95,
+      "name": "Onix"
+    },
+    {
+      "pokemon_species_id": 96,
+      "name": "Traumato"
+    },
+    {
+      "pokemon_species_id": 97,
+      "name": "Hypno"
+    },
+    {
+      "pokemon_species_id": 98,
+      "name": "Krabby"
+    },
+    {
+      "pokemon_species_id": 99,
+      "name": "Kingler"
+    },
+    {
+      "pokemon_species_id": 100,
+      "name": "Voltobal"
+    },
+    {
+      "pokemon_species_id": 101,
+      "name": "Lektrobal"
+    },
+    {
+      "pokemon_species_id": 102,
+      "name": "Owei"
+    },
+    {
+      "pokemon_species_id": 103,
+      "name": "Kokowei"
+    },
+    {
+      "pokemon_species_id": 104,
+      "name": "Tragosso"
+    },
+    {
+      "pokemon_species_id": 105,
+      "name": "Knogga"
+    },
+    {
+      "pokemon_species_id": 106,
+      "name": "Kicklee"
+    },
+    {
+      "pokemon_species_id": 107,
+      "name": "Nockchan"
+    },
+    {
+      "pokemon_species_id": 108,
+      "name": "Schlurp"
+    },
+    {
+      "pokemon_species_id": 109,
+      "name": "Smogon"
+    },
+    {
+      "pokemon_species_id": 110,
+      "name": "Smogmog"
+    },
+    {
+      "pokemon_species_id": 111,
+      "name": "Rihorn"
+    },
+    {
+      "pokemon_species_id": 112,
+      "name": "Rizeros"
+    },
+    {
+      "pokemon_species_id": 113,
+      "name": "Chaneira"
+    },
+    {
+      "pokemon_species_id": 114,
+      "name": "Tangela"
+    },
+    {
+      "pokemon_species_id": 115,
+      "name": "Kangama"
+    },
+    {
+      "pokemon_species_id": 116,
+      "name": "Seeper"
+    },
+    {
+      "pokemon_species_id": 117,
+      "name": "Seemon"
+    },
+    {
+      "pokemon_species_id": 118,
+      "name": "Goldini"
+    },
+    {
+      "pokemon_species_id": 119,
+      "name": "Golking"
+    },
+    {
+      "pokemon_species_id": 120,
+      "name": "Sterndu"
+    },
+    {
+      "pokemon_species_id": 121,
+      "name": "Starmie"
+    },
+    {
+      "pokemon_species_id": 122,
+      "name": "Pantimos"
+    },
+    {
+      "pokemon_species_id": 123,
+      "name": "Sichlor"
+    },
+    {
+      "pokemon_species_id": 124,
+      "name": "Rossana"
+    },
+    {
+      "pokemon_species_id": 125,
+      "name": "Elektek"
+    },
+    {
+      "pokemon_species_id": 126,
+      "name": "Magmar"
+    },
+    {
+      "pokemon_species_id": 127,
+      "name": "Pinsir"
+    },
+    {
+      "pokemon_species_id": 128,
+      "name": "Tauros"
+    },
+    {
+      "pokemon_species_id": 129,
+      "name": "Karpador"
+    },
+    {
+      "pokemon_species_id": 130,
+      "name": "Garados"
+    },
+    {
+      "pokemon_species_id": 131,
+      "name": "Lapras"
+    },
+    {
+      "pokemon_species_id": 132,
+      "name": "Ditto"
+    },
+    {
+      "pokemon_species_id": 133,
+      "name": "Evoli"
+    },
+    {
+      "pokemon_species_id": 134,
+      "name": "Aquana"
+    },
+    {
+      "pokemon_species_id": 135,
+      "name": "Blitza"
+    },
+    {
+      "pokemon_species_id": 136,
+      "name": "Flamara"
+    },
+    {
+      "pokemon_species_id": 137,
+      "name": "Porygon"
+    },
+    {
+      "pokemon_species_id": 138,
+      "name": "Amonitas"
+    },
+    {
+      "pokemon_species_id": 139,
+      "name": "Amoroso"
+    },
+    {
+      "pokemon_species_id": 140,
+      "name": "Kabuto"
+    },
+    {
+      "pokemon_species_id": 141,
+      "name": "Kabutops"
+    },
+    {
+      "pokemon_species_id": 142,
+      "name": "Aerodactyl"
+    },
+    {
+      "pokemon_species_id": 143,
+      "name": "Relaxo"
+    },
+    {
+      "pokemon_species_id": 144,
+      "name": "Arktos"
+    },
+    {
+      "pokemon_species_id": 145,
+      "name": "Zapdos"
+    },
+    {
+      "pokemon_species_id": 146,
+      "name": "Lavados"
+    },
+    {
+      "pokemon_species_id": 147,
+      "name": "Dratini"
+    },
+    {
+      "pokemon_species_id": 148,
+      "name": "Dragonir"
+    },
+    {
+      "pokemon_species_id": 149,
+      "name": "Dragoran"
+    },
+    {
+      "pokemon_species_id": 150,
+      "name": "Mewtu"
+    },
+    {
+      "pokemon_species_id": 151,
+      "name": "Mew"
+    },
+    {
+      "pokemon_species_id": 152,
+      "name": "Endivie"
+    },
+    {
+      "pokemon_species_id": 153,
+      "name": "Lorblatt"
+    },
+    {
+      "pokemon_species_id": 154,
+      "name": "Meganie"
+    },
+    {
+      "pokemon_species_id": 155,
+      "name": "Feurigel"
+    },
+    {
+      "pokemon_species_id": 156,
+      "name": "Igelavar"
+    },
+    {
+      "pokemon_species_id": 157,
+      "name": "Tornupto"
+    },
+    {
+      "pokemon_species_id": 158,
+      "name": "Karnimani"
+    },
+    {
+      "pokemon_species_id": 159,
+      "name": "Tyracroc"
+    },
+    {
+      "pokemon_species_id": 160,
+      "name": "Impergator"
+    },
+    {
+      "pokemon_species_id": 161,
+      "name": "Wiesor"
+    },
+    {
+      "pokemon_species_id": 162,
+      "name": "Wiesenior"
+    },
+    {
+      "pokemon_species_id": 163,
+      "name": "Hoothoot"
+    },
+    {
+      "pokemon_species_id": 164,
+      "name": "Noctuh"
+    },
+    {
+      "pokemon_species_id": 165,
+      "name": "Ledyba"
+    },
+    {
+      "pokemon_species_id": 166,
+      "name": "Ledian"
+    },
+    {
+      "pokemon_species_id": 167,
+      "name": "Webarak"
+    },
+    {
+      "pokemon_species_id": 168,
+      "name": "Ariados"
+    },
+    {
+      "pokemon_species_id": 169,
+      "name": "Iksbat"
+    },
+    {
+      "pokemon_species_id": 170,
+      "name": "Lampi"
+    },
+    {
+      "pokemon_species_id": 171,
+      "name": "Lanturn"
+    },
+    {
+      "pokemon_species_id": 172,
+      "name": "Pichu"
+    },
+    {
+      "pokemon_species_id": 173,
+      "name": "Pii"
+    },
+    {
+      "pokemon_species_id": 174,
+      "name": "Fluffeluff"
+    },
+    {
+      "pokemon_species_id": 175,
+      "name": "Togepi"
+    },
+    {
+      "pokemon_species_id": 176,
+      "name": "Togetic"
+    },
+    {
+      "pokemon_species_id": 177,
+      "name": "Natu"
+    },
+    {
+      "pokemon_species_id": 178,
+      "name": "Xatu"
+    },
+    {
+      "pokemon_species_id": 179,
+      "name": "Voltilamm"
+    },
+    {
+      "pokemon_species_id": 180,
+      "name": "Waaty"
+    },
+    {
+      "pokemon_species_id": 181,
+      "name": "Ampharos"
+    },
+    {
+      "pokemon_species_id": 182,
+      "name": "Blubella"
+    },
+    {
+      "pokemon_species_id": 183,
+      "name": "Marill"
+    },
+    {
+      "pokemon_species_id": 184,
+      "name": "Azumarill"
+    },
+    {
+      "pokemon_species_id": 185,
+      "name": "Mogelbaum"
+    },
+    {
+      "pokemon_species_id": 186,
+      "name": "Quaxo"
+    },
+    {
+      "pokemon_species_id": 187,
+      "name": "Hoppspross"
+    },
+    {
+      "pokemon_species_id": 188,
+      "name": "Hubelupf"
+    },
+    {
+      "pokemon_species_id": 189,
+      "name": "Papungha"
+    },
+    {
+      "pokemon_species_id": 190,
+      "name": "Griffel"
+    },
+    {
+      "pokemon_species_id": 191,
+      "name": "Sonnkern"
+    },
+    {
+      "pokemon_species_id": 192,
+      "name": "Sonnflora"
+    },
+    {
+      "pokemon_species_id": 193,
+      "name": "Yanma"
+    },
+    {
+      "pokemon_species_id": 194,
+      "name": "Felino"
+    },
+    {
+      "pokemon_species_id": 195,
+      "name": "Morlord"
+    },
+    {
+      "pokemon_species_id": 196,
+      "name": "Psiana"
+    },
+    {
+      "pokemon_species_id": 197,
+      "name": "Nachtara"
+    },
+    {
+      "pokemon_species_id": 198,
+      "name": "Kramurx"
+    },
+    {
+      "pokemon_species_id": 199,
+      "name": "Laschoking"
+    },
+    {
+      "pokemon_species_id": 200,
+      "name": "Traunfugil"
+    },
+    {
+      "pokemon_species_id": 201,
+      "name": "Icognito"
+    },
+    {
+      "pokemon_species_id": 202,
+      "name": "Woingenau"
+    },
+    {
+      "pokemon_species_id": 203,
+      "name": "Girafarig"
+    },
+    {
+      "pokemon_species_id": 204,
+      "name": "Tannza"
+    },
+    {
+      "pokemon_species_id": 205,
+      "name": "Forstellka"
+    },
+    {
+      "pokemon_species_id": 206,
+      "name": "Dummisel"
+    },
+    {
+      "pokemon_species_id": 207,
+      "name": "Skorgla"
+    },
+    {
+      "pokemon_species_id": 208,
+      "name": "Stahlos"
+    },
+    {
+      "pokemon_species_id": 209,
+      "name": "Snubbull"
+    },
+    {
+      "pokemon_species_id": 210,
+      "name": "Granbull"
+    },
+    {
+      "pokemon_species_id": 211,
+      "name": "Baldorfish"
+    },
+    {
+      "pokemon_species_id": 212,
+      "name": "Scherox"
+    },
+    {
+      "pokemon_species_id": 213,
+      "name": "Pottrott"
+    },
+    {
+      "pokemon_species_id": 214,
+      "name": "Skaraborn"
+    },
+    {
+      "pokemon_species_id": 215,
+      "name": "Sniebel"
+    },
+    {
+      "pokemon_species_id": 216,
+      "name": "Teddiursa"
+    },
+    {
+      "pokemon_species_id": 217,
+      "name": "Ursaring"
+    },
+    {
+      "pokemon_species_id": 218,
+      "name": "Schneckmag"
+    },
+    {
+      "pokemon_species_id": 219,
+      "name": "Magcargo"
+    },
+    {
+      "pokemon_species_id": 220,
+      "name": "Quiekel"
+    },
+    {
+      "pokemon_species_id": 221,
+      "name": "Keifel"
+    },
+    {
+      "pokemon_species_id": 222,
+      "name": "Corasonn"
+    },
+    {
+      "pokemon_species_id": 223,
+      "name": "Remoraid"
+    },
+    {
+      "pokemon_species_id": 224,
+      "name": "Octillery"
+    },
+    {
+      "pokemon_species_id": 225,
+      "name": "Botogel"
+    },
+    {
+      "pokemon_species_id": 226,
+      "name": "Mantax"
+    },
+    {
+      "pokemon_species_id": 227,
+      "name": "Panzaeron"
+    },
+    {
+      "pokemon_species_id": 228,
+      "name": "Hunduster"
+    },
+    {
+      "pokemon_species_id": 229,
+      "name": "Hundemon"
+    },
+    {
+      "pokemon_species_id": 230,
+      "name": "Seedraking"
+    },
+    {
+      "pokemon_species_id": 231,
+      "name": "Phanpy"
+    },
+    {
+      "pokemon_species_id": 232,
+      "name": "Donphan"
+    },
+    {
+      "pokemon_species_id": 233,
+      "name": "Porygon2"
+    },
+    {
+      "pokemon_species_id": 234,
+      "name": "Damhirplex"
+    },
+    {
+      "pokemon_species_id": 235,
+      "name": "Farbeagle"
+    },
+    {
+      "pokemon_species_id": 236,
+      "name": "Rabauz"
+    },
+    {
+      "pokemon_species_id": 237,
+      "name": "Kapoera"
+    },
+    {
+      "pokemon_species_id": 238,
+      "name": "Kussilla"
+    },
+    {
+      "pokemon_species_id": 239,
+      "name": "Elekid"
+    },
+    {
+      "pokemon_species_id": 240,
+      "name": "Magby"
+    },
+    {
+      "pokemon_species_id": 241,
+      "name": "Miltank"
+    },
+    {
+      "pokemon_species_id": 242,
+      "name": "Heiteira"
+    },
+    {
+      "pokemon_species_id": 243,
+      "name": "Raikou"
+    },
+    {
+      "pokemon_species_id": 244,
+      "name": "Entei"
+    },
+    {
+      "pokemon_species_id": 245,
+      "name": "Suicune"
+    },
+    {
+      "pokemon_species_id": 246,
+      "name": "Larvitar"
+    },
+    {
+      "pokemon_species_id": 247,
+      "name": "Pupitar"
+    },
+    {
+      "pokemon_species_id": 248,
+      "name": "Despotar"
+    },
+    {
+      "pokemon_species_id": 249,
+      "name": "Lugia"
+    },
+    {
+      "pokemon_species_id": 250,
+      "name": "Ho-Oh"
+    },
+    {
+      "pokemon_species_id": 251,
+      "name": "Celebi"
+    },
+    {
+      "pokemon_species_id": 252,
+      "name": "Geckarbor"
+    },
+    {
+      "pokemon_species_id": 253,
+      "name": "Reptain"
+    },
+    {
+      "pokemon_species_id": 254,
+      "name": "Gewaldro"
+    },
+    {
+      "pokemon_species_id": 255,
+      "name": "Flemmli"
+    },
+    {
+      "pokemon_species_id": 256,
+      "name": "Jungglut"
+    },
+    {
+      "pokemon_species_id": 257,
+      "name": "Lohgock"
+    },
+    {
+      "pokemon_species_id": 258,
+      "name": "Hydropi"
+    },
+    {
+      "pokemon_species_id": 259,
+      "name": "Moorabbel"
+    },
+    {
+      "pokemon_species_id": 260,
+      "name": "Sumpex"
+    },
+    {
+      "pokemon_species_id": 261,
+      "name": "Fiffyen"
+    },
+    {
+      "pokemon_species_id": 262,
+      "name": "Magnayen"
+    },
+    {
+      "pokemon_species_id": 263,
+      "name": "Zigzachs"
+    },
+    {
+      "pokemon_species_id": 264,
+      "name": "Geradaks"
+    },
+    {
+      "pokemon_species_id": 265,
+      "name": "Waumpel"
+    },
+    {
+      "pokemon_species_id": 266,
+      "name": "Schaloko"
+    },
+    {
+      "pokemon_species_id": 267,
+      "name": "Papinella"
+    },
+    {
+      "pokemon_species_id": 268,
+      "name": "Panekon"
+    },
+    {
+      "pokemon_species_id": 269,
+      "name": "Pudox"
+    },
+    {
+      "pokemon_species_id": 270,
+      "name": "Loturzel"
+    },
+    {
+      "pokemon_species_id": 271,
+      "name": "Lombrero"
+    },
+    {
+      "pokemon_species_id": 272,
+      "name": "Kappalores"
+    },
+    {
+      "pokemon_species_id": 273,
+      "name": "Samurzel"
+    },
+    {
+      "pokemon_species_id": 274,
+      "name": "Blanas"
+    },
+    {
+      "pokemon_species_id": 275,
+      "name": "Tengulist"
+    },
+    {
+      "pokemon_species_id": 276,
+      "name": "Schwalbini"
+    },
+    {
+      "pokemon_species_id": 277,
+      "name": "Schwalboss"
+    },
+    {
+      "pokemon_species_id": 278,
+      "name": "Wingull"
+    },
+    {
+      "pokemon_species_id": 279,
+      "name": "Pelipper"
+    },
+    {
+      "pokemon_species_id": 280,
+      "name": "Trasla"
+    },
+    {
+      "pokemon_species_id": 281,
+      "name": "Kirlia"
+    },
+    {
+      "pokemon_species_id": 282,
+      "name": "Guardevoir"
+    },
+    {
+      "pokemon_species_id": 283,
+      "name": "Gehweiher"
+    },
+    {
+      "pokemon_species_id": 284,
+      "name": "Maskeregen"
+    },
+    {
+      "pokemon_species_id": 285,
+      "name": "Knilz"
+    },
+    {
+      "pokemon_species_id": 286,
+      "name": "Kapilz"
+    },
+    {
+      "pokemon_species_id": 287,
+      "name": "Bummelz"
+    },
+    {
+      "pokemon_species_id": 288,
+      "name": "Muntier"
+    },
+    {
+      "pokemon_species_id": 289,
+      "name": "Letarking"
+    },
+    {
+      "pokemon_species_id": 290,
+      "name": "Nincada"
+    },
+    {
+      "pokemon_species_id": 291,
+      "name": "Ninjask"
+    },
+    {
+      "pokemon_species_id": 292,
+      "name": "Ninjatom"
+    },
+    {
+      "pokemon_species_id": 293,
+      "name": "Flurmel"
+    },
+    {
+      "pokemon_species_id": 294,
+      "name": "Krakeelo"
+    },
+    {
+      "pokemon_species_id": 295,
+      "name": "Krawumms"
+    },
+    {
+      "pokemon_species_id": 296,
+      "name": "Makuhita"
+    },
+    {
+      "pokemon_species_id": 297,
+      "name": "Hariyama"
+    },
+    {
+      "pokemon_species_id": 298,
+      "name": "Azurill"
+    },
+    {
+      "pokemon_species_id": 299,
+      "name": "Nasgnet"
+    },
+    {
+      "pokemon_species_id": 300,
+      "name": "Eneco"
+    },
+    {
+      "pokemon_species_id": 301,
+      "name": "Enekoro"
+    },
+    {
+      "pokemon_species_id": 302,
+      "name": "Zobiris"
+    },
+    {
+      "pokemon_species_id": 303,
+      "name": "Flunkifer"
+    },
+    {
+      "pokemon_species_id": 304,
+      "name": "Stollunior"
+    },
+    {
+      "pokemon_species_id": 305,
+      "name": "Stollrak"
+    },
+    {
+      "pokemon_species_id": 306,
+      "name": "Stolloss"
+    },
+    {
+      "pokemon_species_id": 307,
+      "name": "Meditie"
+    },
+    {
+      "pokemon_species_id": 308,
+      "name": "Meditalis"
+    },
+    {
+      "pokemon_species_id": 309,
+      "name": "Frizelbliz"
+    },
+    {
+      "pokemon_species_id": 310,
+      "name": "Voltenso"
+    },
+    {
+      "pokemon_species_id": 311,
+      "name": "Plusle"
+    },
+    {
+      "pokemon_species_id": 312,
+      "name": "Minun"
+    },
+    {
+      "pokemon_species_id": 313,
+      "name": "Volbeat"
+    },
+    {
+      "pokemon_species_id": 314,
+      "name": "Illumise"
+    },
+    {
+      "pokemon_species_id": 315,
+      "name": "Roselia"
+    },
+    {
+      "pokemon_species_id": 316,
+      "name": "Schluppuck"
+    },
+    {
+      "pokemon_species_id": 317,
+      "name": "Schlukwech"
+    },
+    {
+      "pokemon_species_id": 318,
+      "name": "Kanivanha"
+    },
+    {
+      "pokemon_species_id": 319,
+      "name": "Tohaido"
+    },
+    {
+      "pokemon_species_id": 320,
+      "name": "Wailmer"
+    },
+    {
+      "pokemon_species_id": 321,
+      "name": "Wailord"
+    },
+    {
+      "pokemon_species_id": 322,
+      "name": "Camaub"
+    },
+    {
+      "pokemon_species_id": 323,
+      "name": "Camerupt"
+    },
+    {
+      "pokemon_species_id": 324,
+      "name": "Qurtel"
+    },
+    {
+      "pokemon_species_id": 325,
+      "name": "Spoink"
+    },
+    {
+      "pokemon_species_id": 326,
+      "name": "Groink"
+    },
+    {
+      "pokemon_species_id": 327,
+      "name": "Pandir"
+    },
+    {
+      "pokemon_species_id": 328,
+      "name": "Knacklion"
+    },
+    {
+      "pokemon_species_id": 329,
+      "name": "Vibrava"
+    },
+    {
+      "pokemon_species_id": 330,
+      "name": "Libelldra"
+    },
+    {
+      "pokemon_species_id": 331,
+      "name": "Tuska"
+    },
+    {
+      "pokemon_species_id": 332,
+      "name": "Noktuska"
+    },
+    {
+      "pokemon_species_id": 333,
+      "name": "Wablu"
+    },
+    {
+      "pokemon_species_id": 334,
+      "name": "Altaria"
+    },
+    {
+      "pokemon_species_id": 335,
+      "name": "Sengo"
+    },
+    {
+      "pokemon_species_id": 336,
+      "name": "Vipitis"
+    },
+    {
+      "pokemon_species_id": 337,
+      "name": "Lunastein"
+    },
+    {
+      "pokemon_species_id": 338,
+      "name": "Sonnfel"
+    },
+    {
+      "pokemon_species_id": 339,
+      "name": "Schmerbe"
+    },
+    {
+      "pokemon_species_id": 340,
+      "name": "Welsar"
+    },
+    {
+      "pokemon_species_id": 341,
+      "name": "Krebscorps"
+    },
+    {
+      "pokemon_species_id": 342,
+      "name": "Krebutack"
+    },
+    {
+      "pokemon_species_id": 343,
+      "name": "Puppance"
+    },
+    {
+      "pokemon_species_id": 344,
+      "name": "Lepumentas"
+    },
+    {
+      "pokemon_species_id": 345,
+      "name": "Liliep"
+    },
+    {
+      "pokemon_species_id": 346,
+      "name": "Wielie"
+    },
+    {
+      "pokemon_species_id": 347,
+      "name": "Anorith"
+    },
+    {
+      "pokemon_species_id": 348,
+      "name": "Armaldo"
+    },
+    {
+      "pokemon_species_id": 349,
+      "name": "Barschwa"
+    },
+    {
+      "pokemon_species_id": 350,
+      "name": "Milotic"
+    },
+    {
+      "pokemon_species_id": 351,
+      "name": "Formeo"
+    },
+    {
+      "pokemon_species_id": 352,
+      "name": "Kecleon"
+    },
+    {
+      "pokemon_species_id": 353,
+      "name": "Shuppet"
+    },
+    {
+      "pokemon_species_id": 354,
+      "name": "Banette"
+    },
+    {
+      "pokemon_species_id": 355,
+      "name": "Zwirrlicht"
+    },
+    {
+      "pokemon_species_id": 356,
+      "name": "Zwirrklop"
+    },
+    {
+      "pokemon_species_id": 357,
+      "name": "Tropius"
+    },
+    {
+      "pokemon_species_id": 358,
+      "name": "Palimpalim"
+    },
+    {
+      "pokemon_species_id": 359,
+      "name": "Absol"
+    },
+    {
+      "pokemon_species_id": 360,
+      "name": "Isso"
+    },
+    {
+      "pokemon_species_id": 361,
+      "name": "Schneppke"
+    },
+    {
+      "pokemon_species_id": 362,
+      "name": "Firnontor"
+    },
+    {
+      "pokemon_species_id": 363,
+      "name": "Seemops"
+    },
+    {
+      "pokemon_species_id": 364,
+      "name": "Seejong"
+    },
+    {
+      "pokemon_species_id": 365,
+      "name": "Walraisa"
+    },
+    {
+      "pokemon_species_id": 366,
+      "name": "Perlu"
+    },
+    {
+      "pokemon_species_id": 367,
+      "name": "Aalabyss"
+    },
+    {
+      "pokemon_species_id": 368,
+      "name": "Saganabyss"
+    },
+    {
+      "pokemon_species_id": 369,
+      "name": "Relicanth"
+    },
+    {
+      "pokemon_species_id": 370,
+      "name": "Liebiskus"
+    },
+    {
+      "pokemon_species_id": 371,
+      "name": "Kindwurm"
+    },
+    {
+      "pokemon_species_id": 372,
+      "name": "Draschel"
+    },
+    {
+      "pokemon_species_id": 373,
+      "name": "Brutalanda"
+    },
+    {
+      "pokemon_species_id": 374,
+      "name": "Tanhel"
+    },
+    {
+      "pokemon_species_id": 375,
+      "name": "Metang"
+    },
+    {
+      "pokemon_species_id": 376,
+      "name": "Metagross"
+    },
+    {
+      "pokemon_species_id": 377,
+      "name": "Regirock"
+    },
+    {
+      "pokemon_species_id": 378,
+      "name": "Regice"
+    },
+    {
+      "pokemon_species_id": 379,
+      "name": "Registeel"
+    },
+    {
+      "pokemon_species_id": 380,
+      "name": "Latias"
+    },
+    {
+      "pokemon_species_id": 381,
+      "name": "Latios"
+    },
+    {
+      "pokemon_species_id": 382,
+      "name": "Kyogre"
+    },
+    {
+      "pokemon_species_id": 383,
+      "name": "Groudon"
+    },
+    {
+      "pokemon_species_id": 384,
+      "name": "Rayquaza"
+    },
+    {
+      "pokemon_species_id": 385,
+      "name": "Jirachi"
+    },
+    {
+      "pokemon_species_id": 386,
+      "name": "Deoxys"
+    },
+    {
+      "pokemon_species_id": 387,
+      "name": "Chelast"
+    },
+    {
+      "pokemon_species_id": 388,
+      "name": "Chelcarain"
+    },
+    {
+      "pokemon_species_id": 389,
+      "name": "Chelterrar"
+    },
+    {
+      "pokemon_species_id": 390,
+      "name": "Panflam"
+    },
+    {
+      "pokemon_species_id": 391,
+      "name": "Panpyro"
+    },
+    {
+      "pokemon_species_id": 392,
+      "name": "Panferno"
+    },
+    {
+      "pokemon_species_id": 393,
+      "name": "Plinfa"
+    },
+    {
+      "pokemon_species_id": 394,
+      "name": "Pliprin"
+    },
+    {
+      "pokemon_species_id": 395,
+      "name": "Impoleon"
+    },
+    {
+      "pokemon_species_id": 396,
+      "name": "Staralili"
+    },
+    {
+      "pokemon_species_id": 397,
+      "name": "Staravia"
+    },
+    {
+      "pokemon_species_id": 398,
+      "name": "Staraptor"
+    },
+    {
+      "pokemon_species_id": 399,
+      "name": "Bidiza"
+    },
+    {
+      "pokemon_species_id": 400,
+      "name": "Bidifas"
+    },
+    {
+      "pokemon_species_id": 401,
+      "name": "Zirpurze"
+    },
+    {
+      "pokemon_species_id": 402,
+      "name": "Zirpeise"
+    },
+    {
+      "pokemon_species_id": 403,
+      "name": "Sheinux"
+    },
+    {
+      "pokemon_species_id": 404,
+      "name": "Luxio"
+    },
+    {
+      "pokemon_species_id": 405,
+      "name": "Luxtra"
+    },
+    {
+      "pokemon_species_id": 406,
+      "name": "Knospi"
+    },
+    {
+      "pokemon_species_id": 407,
+      "name": "Roserade"
+    },
+    {
+      "pokemon_species_id": 408,
+      "name": "Koknodon"
+    },
+    {
+      "pokemon_species_id": 409,
+      "name": "Rameidon"
+    },
+    {
+      "pokemon_species_id": 410,
+      "name": "Schilterus"
+    },
+    {
+      "pokemon_species_id": 411,
+      "name": "Bollterus"
+    },
+    {
+      "pokemon_species_id": 412,
+      "name": "Burmy"
+    },
+    {
+      "pokemon_species_id": 413,
+      "name": "Burmadame"
+    },
+    {
+      "pokemon_species_id": 414,
+      "name": "Moterpel"
+    },
+    {
+      "pokemon_species_id": 415,
+      "name": "Wadribie"
+    },
+    {
+      "pokemon_species_id": 416,
+      "name": "Honweisel"
+    },
+    {
+      "pokemon_species_id": 417,
+      "name": "Pachirisu"
+    },
+    {
+      "pokemon_species_id": 418,
+      "name": "Bamelin"
+    },
+    {
+      "pokemon_species_id": 419,
+      "name": "Bojelin"
+    },
+    {
+      "pokemon_species_id": 420,
+      "name": "Kikugi"
+    },
+    {
+      "pokemon_species_id": 421,
+      "name": "Kinoso"
+    },
+    {
+      "pokemon_species_id": 422,
+      "name": "Schalellos West"
+    },
+    {
+      "pokemon_species_id": 423,
+      "name": "Gastrodon West"
+    },
+    {
+      "pokemon_species_id": 424,
+      "name": "Ambidiffel"
+    },
+    {
+      "pokemon_species_id": 425,
+      "name": "Driftlon"
+    },
+    {
+      "pokemon_species_id": 426,
+      "name": "Drifzepeli"
+    },
+    {
+      "pokemon_species_id": 427,
+      "name": "Haspiror"
+    },
+    {
+      "pokemon_species_id": 428,
+      "name": "Schlapor"
+    },
+    {
+      "pokemon_species_id": 429,
+      "name": "Traunmagil"
+    },
+    {
+      "pokemon_species_id": 430,
+      "name": "Kramshef"
+    },
+    {
+      "pokemon_species_id": 431,
+      "name": "Charmian"
+    },
+    {
+      "pokemon_species_id": 432,
+      "name": "Shnurgarst"
+    },
+    {
+      "pokemon_species_id": 433,
+      "name": "Klingplim"
+    },
+    {
+      "pokemon_species_id": 434,
+      "name": "Skunkapuh"
+    },
+    {
+      "pokemon_species_id": 435,
+      "name": "Skuntank"
+    },
+    {
+      "pokemon_species_id": 436,
+      "name": "Bronzel"
+    },
+    {
+      "pokemon_species_id": 437,
+      "name": "Bronzong"
+    },
+    {
+      "pokemon_species_id": 438,
+      "name": "Mobai"
+    },
+    {
+      "pokemon_species_id": 439,
+      "name": "Pantimimi"
+    },
+    {
+      "pokemon_species_id": 440,
+      "name": "Wonneira"
+    },
+    {
+      "pokemon_species_id": 441,
+      "name": "Plaudagei"
+    },
+    {
+      "pokemon_species_id": 442,
+      "name": "Kryppuk"
+    },
+    {
+      "pokemon_species_id": 443,
+      "name": "Kaumalat"
+    },
+    {
+      "pokemon_species_id": 444,
+      "name": "Knarksel"
+    },
+    {
+      "pokemon_species_id": 445,
+      "name": "Knakrack"
+    },
+    {
+      "pokemon_species_id": 446,
+      "name": "Mampfaxo"
+    },
+    {
+      "pokemon_species_id": 447,
+      "name": "Riolu"
+    },
+    {
+      "pokemon_species_id": 448,
+      "name": "Lucario"
+    },
+    {
+      "pokemon_species_id": 449,
+      "name": "Hippopotas"
+    },
+    {
+      "pokemon_species_id": 450,
+      "name": "Hippoterus"
+    },
+    {
+      "pokemon_species_id": 451,
+      "name": "Pionskora"
+    },
+    {
+      "pokemon_species_id": 452,
+      "name": "Piondragi"
+    },
+    {
+      "pokemon_species_id": 453,
+      "name": "Glibunkel"
+    },
+    {
+      "pokemon_species_id": 454,
+      "name": "Toxiquak"
+    },
+    {
+      "pokemon_species_id": 455,
+      "name": "Venuflibis"
+    },
+    {
+      "pokemon_species_id": 456,
+      "name": "Finneon"
+    },
+    {
+      "pokemon_species_id": 457,
+      "name": "Lumineon"
+    },
+    {
+      "pokemon_species_id": 458,
+      "name": "Mantirps"
+    },
+    {
+      "pokemon_species_id": 459,
+      "name": "Shnebedeck"
+    },
+    {
+      "pokemon_species_id": 460,
+      "name": "Rexblisar"
+    },
+    {
+      "pokemon_species_id": 461,
+      "name": "Snibunna"
+    },
+    {
+      "pokemon_species_id": 462,
+      "name": "Magnezone"
+    },
+    {
+      "pokemon_species_id": 463,
+      "name": "Schlurplek"
+    },
+    {
+      "pokemon_species_id": 464,
+      "name": "Rihornior"
+    },
+    {
+      "pokemon_species_id": 465,
+      "name": "Tangoloss"
+    },
+    {
+      "pokemon_species_id": 466,
+      "name": "Elevoltek"
+    },
+    {
+      "pokemon_species_id": 467,
+      "name": "Magbrant"
+    },
+    {
+      "pokemon_species_id": 468,
+      "name": "Togekiss"
+    },
+    {
+      "pokemon_species_id": 469,
+      "name": "Yanmega"
+    },
+    {
+      "pokemon_species_id": 470,
+      "name": "Folipurba"
+    },
+    {
+      "pokemon_species_id": 471,
+      "name": "Glaziola"
+    },
+    {
+      "pokemon_species_id": 472,
+      "name": "Skorgro"
+    },
+    {
+      "pokemon_species_id": 473,
+      "name": "Mamutel"
+    },
+    {
+      "pokemon_species_id": 474,
+      "name": "Porygon-Z"
+    },
+    {
+      "pokemon_species_id": 475,
+      "name": "Galagladi"
+    },
+    {
+      "pokemon_species_id": 476,
+      "name": "Voluminas"
+    },
+    {
+      "pokemon_species_id": 477,
+      "name": "Zwirrfinst"
+    },
+    {
+      "pokemon_species_id": 478,
+      "name": "Frosdedje"
+    },
+    {
+      "pokemon_species_id": 479,
+      "name": "Rotom"
+    },
+    {
+      "pokemon_species_id": 480,
+      "name": "Selfe"
+    },
+    {
+      "pokemon_species_id": 481,
+      "name": "Vesprit"
+    },
+    {
+      "pokemon_species_id": 482,
+      "name": "Tobutz"
+    },
+    {
+      "pokemon_species_id": 483,
+      "name": "Dialga"
+    },
+    {
+      "pokemon_species_id": 484,
+      "name": "Palkia"
+    },
+    {
+      "pokemon_species_id": 485,
+      "name": "Heatran"
+    },
+    {
+      "pokemon_species_id": 486,
+      "name": "Regigigas"
+    },
+    {
+      "pokemon_species_id": 487,
+      "name": "Giratina"
+    },
+    {
+      "pokemon_species_id": 488,
+      "name": "Cresselia"
+    },
+    {
+      "pokemon_species_id": 489,
+      "name": "Phione"
+    },
+    {
+      "pokemon_species_id": 490,
+      "name": "Manaphy"
+    },
+    {
+      "pokemon_species_id": 491,
+      "name": "Darkrai"
+    },
+    {
+      "pokemon_species_id": 492,
+      "name": "Shaymin"
+    },
+    {
+      "pokemon_species_id": 493,
+      "name": "Arceus"
+    },
+    {
+      "pokemon_species_id": 494,
+      "name": "Victini"
+    },
+    {
+      "pokemon_species_id": 495,
+      "name": "Serpifeu"
+    },
+    {
+      "pokemon_species_id": 496,
+      "name": "Efoserp"
+    },
+    {
+      "pokemon_species_id": 497,
+      "name": "Serpiroyal"
+    },
+    {
+      "pokemon_species_id": 498,
+      "name": "Floink"
+    },
+    {
+      "pokemon_species_id": 499,
+      "name": "Ferkokel"
+    },
+    {
+      "pokemon_species_id": 500,
+      "name": "Flambirex"
+    },
+    {
+      "pokemon_species_id": 501,
+      "name": "Ottaro"
+    },
+    {
+      "pokemon_species_id": 502,
+      "name": "Zwottronin"
+    },
+    {
+      "pokemon_species_id": 503,
+      "name": "Admurai"
+    },
+    {
+      "pokemon_species_id": 504,
+      "name": "Nagelotz"
+    },
+    {
+      "pokemon_species_id": 505,
+      "name": "Kukmarda"
+    },
+    {
+      "pokemon_species_id": 506,
+      "name": "Yorkleff"
+    },
+    {
+      "pokemon_species_id": 507,
+      "name": "Terribark"
+    },
+    {
+      "pokemon_species_id": 508,
+      "name": "Bissbark"
+    },
+    {
+      "pokemon_species_id": 509,
+      "name": "Felilou"
+    },
+    {
+      "pokemon_species_id": 510,
+      "name": "Kleoparda"
+    },
+    {
+      "pokemon_species_id": 511,
+      "name": "Vegimak"
+    },
+    {
+      "pokemon_species_id": 512,
+      "name": "Vegichita"
+    },
+    {
+      "pokemon_species_id": 513,
+      "name": "Grillmak"
+    },
+    {
+      "pokemon_species_id": 514,
+      "name": "Grillchita"
+    },
+    {
+      "pokemon_species_id": 515,
+      "name": "Sodamak"
+    },
+    {
+      "pokemon_species_id": 516,
+      "name": "Sodachita"
+    },
+    {
+      "pokemon_species_id": 517,
+      "name": "Somniam"
+    },
+    {
+      "pokemon_species_id": 518,
+      "name": "Somnivora"
+    },
+    {
+      "pokemon_species_id": 519,
+      "name": "Dusselgurr"
+    },
+    {
+      "pokemon_species_id": 520,
+      "name": "Navitaub"
+    },
+    {
+      "pokemon_species_id": 521,
+      "name": "Fasasnob"
+    },
+    {
+      "pokemon_species_id": 522,
+      "name": "Elezeba"
+    },
+    {
+      "pokemon_species_id": 523,
+      "name": "Zebritz"
+    },
+    {
+      "pokemon_species_id": 524,
+      "name": "Kiesling"
+    },
+    {
+      "pokemon_species_id": 525,
+      "name": "Sedimantur"
+    },
+    {
+      "pokemon_species_id": 526,
+      "name": "Brockoloss"
+    },
+    {
+      "pokemon_species_id": 527,
+      "name": "Fleknoil"
+    },
+    {
+      "pokemon_species_id": 528,
+      "name": "Fletiamo"
+    },
+    {
+      "pokemon_species_id": 529,
+      "name": "Rotomurf"
+    },
+    {
+      "pokemon_species_id": 530,
+      "name": "Stalobor"
+    },
+    {
+      "pokemon_species_id": 531,
+      "name": "Ohrdoch"
+    },
+    {
+      "pokemon_species_id": 532,
+      "name": "Praktibalk"
+    },
+    {
+      "pokemon_species_id": 533,
+      "name": "Strepoli"
+    },
+    {
+      "pokemon_species_id": 534,
+      "name": "Meistagrif"
+    },
+    {
+      "pokemon_species_id": 535,
+      "name": "Schallquap"
+    },
+    {
+      "pokemon_species_id": 536,
+      "name": "Mebrana"
+    },
+    {
+      "pokemon_species_id": 537,
+      "name": "Branawarz"
+    },
+    {
+      "pokemon_species_id": 538,
+      "name": "Jiutesto"
+    },
+    {
+      "pokemon_species_id": 539,
+      "name": "Karadonis"
+    },
+    {
+      "pokemon_species_id": 540,
+      "name": "Strawickl"
+    },
+    {
+      "pokemon_species_id": 541,
+      "name": "Folikon"
+    },
+    {
+      "pokemon_species_id": 542,
+      "name": "Matrifol"
+    },
+    {
+      "pokemon_species_id": 543,
+      "name": "Toxiped"
+    },
+    {
+      "pokemon_species_id": 544,
+      "name": "Rollum"
+    },
+    {
+      "pokemon_species_id": 545,
+      "name": "Cerapendra"
+    },
+    {
+      "pokemon_species_id": 546,
+      "name": "Waumboll"
+    },
+    {
+      "pokemon_species_id": 547,
+      "name": "Elfun"
+    },
+    {
+      "pokemon_species_id": 548,
+      "name": "Lilminip"
+    },
+    {
+      "pokemon_species_id": 549,
+      "name": "Dressella"
+    },
+    {
+      "pokemon_species_id": 550,
+      "name": "Barschuft Rotlinig"
+    },
+    {
+      "pokemon_species_id": 551,
+      "name": "Ganovil"
+    },
+    {
+      "pokemon_species_id": 552,
+      "name": "Rokkaiman"
+    },
+    {
+      "pokemon_species_id": 553,
+      "name": "Rabigator"
+    },
+    {
+      "pokemon_species_id": 554,
+      "name": "Flampion"
+    },
+    {
+      "pokemon_species_id": 555,
+      "name": "Flampivian"
+    },
+    {
+      "pokemon_species_id": 556,
+      "name": "Maracamba"
+    },
+    {
+      "pokemon_species_id": 557,
+      "name": "Lithomith"
+    },
+    {
+      "pokemon_species_id": 558,
+      "name": "Castellith"
+    },
+    {
+      "pokemon_species_id": 559,
+      "name": "Zurrokex"
+    },
+    {
+      "pokemon_species_id": 560,
+      "name": "Irokex"
+    },
+    {
+      "pokemon_species_id": 561,
+      "name": "Symvolara"
+    },
+    {
+      "pokemon_species_id": 562,
+      "name": "Makabaja"
+    },
+    {
+      "pokemon_species_id": 563,
+      "name": "Echnatoll"
+    },
+    {
+      "pokemon_species_id": 564,
+      "name": "Galapaflos"
+    },
+    {
+      "pokemon_species_id": 565,
+      "name": "Karippas"
+    },
+    {
+      "pokemon_species_id": 566,
+      "name": "Flapteryx"
+    },
+    {
+      "pokemon_species_id": 567,
+      "name": "Aeropteryx"
+    },
+    {
+      "pokemon_species_id": 568,
+      "name": "Unratütox"
+    },
+    {
+      "pokemon_species_id": 569,
+      "name": "Deponitox"
+    },
+    {
+      "pokemon_species_id": 570,
+      "name": "Zorua"
+    },
+    {
+      "pokemon_species_id": 571,
+      "name": "Zoroark"
+    },
+    {
+      "pokemon_species_id": 572,
+      "name": "Picochilla"
+    },
+    {
+      "pokemon_species_id": 573,
+      "name": "Chillabell"
+    },
+    {
+      "pokemon_species_id": 574,
+      "name": "Mollimorba"
+    },
+    {
+      "pokemon_species_id": 575,
+      "name": "Hypnomorba"
+    },
+    {
+      "pokemon_species_id": 576,
+      "name": "Morbitesse"
+    },
+    {
+      "pokemon_species_id": 577,
+      "name": "Monozyto"
+    },
+    {
+      "pokemon_species_id": 578,
+      "name": "Mitodos"
+    },
+    {
+      "pokemon_species_id": 579,
+      "name": "Zytomega"
+    },
+    {
+      "pokemon_species_id": 580,
+      "name": "Piccolente"
+    },
+    {
+      "pokemon_species_id": 581,
+      "name": "Swaroness"
+    },
+    {
+      "pokemon_species_id": 582,
+      "name": "Gelatini"
+    },
+    {
+      "pokemon_species_id": 583,
+      "name": "Gelatroppo"
+    },
+    {
+      "pokemon_species_id": 584,
+      "name": "Gelatwino"
+    },
+    {
+      "pokemon_species_id": 585,
+      "name": "Sesokitz Frühling"
+    },
+    {
+      "pokemon_species_id": 586,
+      "name": "Kronjuwild Frühling"
+    },
+    {
+      "pokemon_species_id": 587,
+      "name": "Emolga"
+    },
+    {
+      "pokemon_species_id": 588,
+      "name": "Laukaps"
+    },
+    {
+      "pokemon_species_id": 589,
+      "name": "Cavalanzas"
+    },
+    {
+      "pokemon_species_id": 590,
+      "name": "Tarnpignon"
+    },
+    {
+      "pokemon_species_id": 591,
+      "name": "Hutsassa"
+    },
+    {
+      "pokemon_species_id": 592,
+      "name": "Quabbel"
+    },
+    {
+      "pokemon_species_id": 593,
+      "name": "Apoquallyp"
+    },
+    {
+      "pokemon_species_id": 594,
+      "name": "Mamolida"
+    },
+    {
+      "pokemon_species_id": 595,
+      "name": "Wattzapf"
+    },
+    {
+      "pokemon_species_id": 596,
+      "name": "Voltula"
+    },
+    {
+      "pokemon_species_id": 597,
+      "name": "Kastadur"
+    },
+    {
+      "pokemon_species_id": 598,
+      "name": "Tentantel"
+    },
+    {
+      "pokemon_species_id": 599,
+      "name": "Klikk"
+    },
+    {
+      "pokemon_species_id": 600,
+      "name": "Kliklak"
+    },
+    {
+      "pokemon_species_id": 601,
+      "name": "Klikdiklak"
+    },
+    {
+      "pokemon_species_id": 602,
+      "name": "Zapplardin"
+    },
+    {
+      "pokemon_species_id": 603,
+      "name": "Zapplalek"
+    },
+    {
+      "pokemon_species_id": 604,
+      "name": "Zapplarang"
+    },
+    {
+      "pokemon_species_id": 605,
+      "name": "Pygraulon"
+    },
+    {
+      "pokemon_species_id": 606,
+      "name": "Megalon"
+    },
+    {
+      "pokemon_species_id": 607,
+      "name": "Lichtel"
+    },
+    {
+      "pokemon_species_id": 608,
+      "name": "Laternecto"
+    },
+    {
+      "pokemon_species_id": 609,
+      "name": "Skelabra"
+    },
+    {
+      "pokemon_species_id": 610,
+      "name": "Milza"
+    },
+    {
+      "pokemon_species_id": 611,
+      "name": "Sharfax"
+    },
+    {
+      "pokemon_species_id": 612,
+      "name": "Maxax"
+    },
+    {
+      "pokemon_species_id": 613,
+      "name": "Petznief"
+    },
+    {
+      "pokemon_species_id": 614,
+      "name": "Siberio"
+    },
+    {
+      "pokemon_species_id": 615,
+      "name": "Frigometri"
+    },
+    {
+      "pokemon_species_id": 616,
+      "name": "Schnuthelm"
+    },
+    {
+      "pokemon_species_id": 617,
+      "name": "Hydragil"
+    },
+    {
+      "pokemon_species_id": 618,
+      "name": "Flunschlik"
+    },
+    {
+      "pokemon_species_id": 619,
+      "name": "Lin-Fu"
+    },
+    {
+      "pokemon_species_id": 620,
+      "name": "Wie-Shu"
+    },
+    {
+      "pokemon_species_id": 621,
+      "name": "Shardrago"
+    },
+    {
+      "pokemon_species_id": 622,
+      "name": "Golbit"
+    },
+    {
+      "pokemon_species_id": 623,
+      "name": "Golgantes"
+    },
+    {
+      "pokemon_species_id": 624,
+      "name": "Gladiantri"
+    },
+    {
+      "pokemon_species_id": 625,
+      "name": "Caesurio"
+    },
+    {
+      "pokemon_species_id": 626,
+      "name": "Bisofank"
+    },
+    {
+      "pokemon_species_id": 627,
+      "name": "Geronimatz"
+    },
+    {
+      "pokemon_species_id": 628,
+      "name": "Washakwil"
+    },
+    {
+      "pokemon_species_id": 629,
+      "name": "Skallyk"
+    },
+    {
+      "pokemon_species_id": 630,
+      "name": "Grypheldis"
+    },
+    {
+      "pokemon_species_id": 631,
+      "name": "Furnifraß"
+    },
+    {
+      "pokemon_species_id": 632,
+      "name": "Fermicula"
+    },
+    {
+      "pokemon_species_id": 633,
+      "name": "Kapuno"
+    },
+    {
+      "pokemon_species_id": 634,
+      "name": "Duodino"
+    },
+    {
+      "pokemon_species_id": 635,
+      "name": "Trikephalo"
+    },
+    {
+      "pokemon_species_id": 636,
+      "name": "Ignivor"
+    },
+    {
+      "pokemon_species_id": 637,
+      "name": "Ramoth"
+    },
+    {
+      "pokemon_species_id": 638,
+      "name": "Kobalium"
+    },
+    {
+      "pokemon_species_id": 639,
+      "name": "Terrakium"
+    },
+    {
+      "pokemon_species_id": 640,
+      "name": "Viridium"
+    },
+    {
+      "pokemon_species_id": 641,
+      "name": "Boreos"
+    },
+    {
+      "pokemon_species_id": 642,
+      "name": "Voltolos"
+    },
+    {
+      "pokemon_species_id": 643,
+      "name": "Reshiram"
+    },
+    {
+      "pokemon_species_id": 644,
+      "name": "Zekrom"
+    },
+    {
+      "pokemon_species_id": 645,
+      "name": "Demeteros"
+    },
+    {
+      "pokemon_species_id": 646,
+      "name": "Kyurem"
+    },
+    {
+      "pokemon_species_id": 647,
+      "name": "Keldeo"
+    },
+    {
+      "pokemon_species_id": 648,
+      "name": "Meloetta"
+    },
+    {
+      "pokemon_species_id": 649,
+      "name": "Genesect"
+    },
+    {
+      "pokemon_species_id": 650,
+      "name": "Igamaro"
+    },
+    {
+      "pokemon_species_id": 651,
+      "name": "Igastarnish"
+    },
+    {
+      "pokemon_species_id": 652,
+      "name": "Brigaron"
+    },
+    {
+      "pokemon_species_id": 653,
+      "name": "Fynx"
+    },
+    {
+      "pokemon_species_id": 654,
+      "name": "Rutena"
+    },
+    {
+      "pokemon_species_id": 655,
+      "name": "Fennexis"
+    },
+    {
+      "pokemon_species_id": 656,
+      "name": "Froxy"
+    },
+    {
+      "pokemon_species_id": 657,
+      "name": "Amphizel"
+    },
+    {
+      "pokemon_species_id": 658,
+      "name": "Quajutsu"
+    },
+    {
+      "pokemon_species_id": 659,
+      "name": "Scoppel"
+    },
+    {
+      "pokemon_species_id": 660,
+      "name": "Grebbit"
+    },
+    {
+      "pokemon_species_id": 661,
+      "name": "Dartiri"
+    },
+    {
+      "pokemon_species_id": 662,
+      "name": "Dartignis"
+    },
+    {
+      "pokemon_species_id": 663,
+      "name": "Fiaro"
+    },
+    {
+      "pokemon_species_id": 664,
+      "name": "Purmel"
+    },
+    {
+      "pokemon_species_id": 665,
+      "name": "Puponcho"
+    },
+    {
+      "pokemon_species_id": 666,
+      "name": "Vivillon"
+    },
+    {
+      "pokemon_species_id": 667,
+      "name": "Leufeo"
+    },
+    {
+      "pokemon_species_id": 668,
+      "name": "Pyroleo"
+    },
+    {
+      "pokemon_species_id": 669,
+      "name": "Flabebe"
+    },
+    {
+      "pokemon_species_id": 670,
+      "name": "Floette"
+    },
+    {
+      "pokemon_species_id": 671,
+      "name": "Florges"
+    },
+    {
+      "pokemon_species_id": 672,
+      "name": "Mähikel"
+    },
+    {
+      "pokemon_species_id": 673,
+      "name": "Chevrumm"
+    },
+    {
+      "pokemon_species_id": 674,
+      "name": "Pam-Pam"
+    },
+    {
+      "pokemon_species_id": 675,
+      "name": "Pandagro"
+    },
+    {
+      "pokemon_species_id": 676,
+      "name": "Coiffwaff"
+    },
+    {
+      "pokemon_species_id": 677,
+      "name": "Psiau"
+    },
+    {
+      "pokemon_species_id": 678,
+      "name": "Psiaugon"
+    },
+    {
+      "pokemon_species_id": 679,
+      "name": "Gramokles"
+    },
+    {
+      "pokemon_species_id": 680,
+      "name": "Duokles"
+    },
+    {
+      "pokemon_species_id": 681,
+      "name": "Durengard"
+    },
+    {
+      "pokemon_species_id": 682,
+      "name": "Parfi"
+    },
+    {
+      "pokemon_species_id": 683,
+      "name": "Parfinesse"
+    },
+    {
+      "pokemon_species_id": 684,
+      "name": "Flauschling"
+    },
+    {
+      "pokemon_species_id": 685,
+      "name": "Sabbaione"
+    },
+    {
+      "pokemon_species_id": 686,
+      "name": "Iscalar"
+    },
+    {
+      "pokemon_species_id": 687,
+      "name": "Calamanero"
+    },
+    {
+      "pokemon_species_id": 688,
+      "name": "Bithora"
+    },
+    {
+      "pokemon_species_id": 689,
+      "name": "Thanathora"
+    },
+    {
+      "pokemon_species_id": 690,
+      "name": "Algitt"
+    },
+    {
+      "pokemon_species_id": 691,
+      "name": "Tandrak"
+    },
+    {
+      "pokemon_species_id": 692,
+      "name": "Scampisto"
+    },
+    {
+      "pokemon_species_id": 693,
+      "name": "Wummer"
+    },
+    {
+      "pokemon_species_id": 694,
+      "name": "Eguana"
+    },
+    {
+      "pokemon_species_id": 695,
+      "name": "Elezard"
+    },
+    {
+      "pokemon_species_id": 696,
+      "name": "Balgoras"
+    },
+    {
+      "pokemon_species_id": 697,
+      "name": "Monargoras"
+    },
+    {
+      "pokemon_species_id": 698,
+      "name": "Amarino"
+    },
+    {
+      "pokemon_species_id": 699,
+      "name": "Amagarga"
+    },
+    {
+      "pokemon_species_id": 700,
+      "name": "Feelinara"
+    },
+    {
+      "pokemon_species_id": 701,
+      "name": "Resladero"
+    },
+    {
+      "pokemon_species_id": 702,
+      "name": "Dedenne"
+    },
+    {
+      "pokemon_species_id": 703,
+      "name": "Rocara"
+    },
+    {
+      "pokemon_species_id": 704,
+      "name": "Viscora"
+    },
+    {
+      "pokemon_species_id": 705,
+      "name": "Viscargot"
+    },
+    {
+      "pokemon_species_id": 706,
+      "name": "Viscogon"
+    },
+    {
+      "pokemon_species_id": 707,
+      "name": "Clavion"
+    },
+    {
+      "pokemon_species_id": 708,
+      "name": "Paragoni"
+    },
+    {
+      "pokemon_species_id": 709,
+      "name": "Trombork"
+    },
+    {
+      "pokemon_species_id": 710,
+      "name": "Irrbis"
+    },
+    {
+      "pokemon_species_id": 711,
+      "name": "Pumpdjinn"
+    },
+    {
+      "pokemon_species_id": 712,
+      "name": "Arktip"
+    },
+    {
+      "pokemon_species_id": 713,
+      "name": "Arktilas"
+    },
+    {
+      "pokemon_species_id": 714,
+      "name": "eF-eM"
+    },
+    {
+      "pokemon_species_id": 715,
+      "name": "UHaFnir"
+    },
+    {
+      "pokemon_species_id": 716,
+      "name": "Xerneas"
+    },
+    {
+      "pokemon_species_id": 717,
+      "name": "Yveltal"
+    },
+    {
+      "pokemon_species_id": 718,
+      "name": "Zygarde"
+    },
+    {
+      "pokemon_species_id": 719,
+      "name": "Diancie"
+    },
+    {
+      "pokemon_species_id": 720,
+      "name": "Hoopa"
+    },
+    {
+      "pokemon_species_id": 721,
+      "name": "Volcanion"
+    },
+    {
+      "pokemon_species_id": 722,
+      "name": "Bauz"
+    },
+    {
+      "pokemon_species_id": 723,
+      "name": "Arboretoss"
+    },
+    {
+      "pokemon_species_id": 724,
+      "name": "Silvarro"
+    },
+    {
+      "pokemon_species_id": 725,
+      "name": "Flamiau"
+    },
+    {
+      "pokemon_species_id": 726,
+      "name": "Miezunder"
+    },
+    {
+      "pokemon_species_id": 727,
+      "name": "Fuegro"
+    },
+    {
+      "pokemon_species_id": 728,
+      "name": "Robball"
+    },
+    {
+      "pokemon_species_id": 729,
+      "name": "Marikeck"
+    },
+    {
+      "pokemon_species_id": 730,
+      "name": "Primarene"
+    },
+    {
+      "pokemon_species_id": 731,
+      "name": "Peppeck"
+    },
+    {
+      "pokemon_species_id": 732,
+      "name": "Trompeck"
+    },
+    {
+      "pokemon_species_id": 733,
+      "name": "Tukanon"
+    },
+    {
+      "pokemon_species_id": 734,
+      "name": "Mangunior"
+    },
+    {
+      "pokemon_species_id": 735,
+      "name": "Manguspektor"
+    },
+    {
+      "pokemon_species_id": 736,
+      "name": "Mabula"
+    },
+    {
+      "pokemon_species_id": 737,
+      "name": "Akkup"
+    },
+    {
+      "pokemon_species_id": 738,
+      "name": "Donarion"
+    },
+    {
+      "pokemon_species_id": 739,
+      "name": "Krabbox"
+    },
+    {
+      "pokemon_species_id": 740,
+      "name": "Krawell"
+    },
+    {
+      "pokemon_species_id": 741,
+      "name": "Choreogel"
+    },
+    {
+      "pokemon_species_id": 742,
+      "name": "Wommel"
+    },
+    {
+      "pokemon_species_id": 743,
+      "name": "Bandelby"
+    },
+    {
+      "pokemon_species_id": 744,
+      "name": "Wuffels"
+    },
+    {
+      "pokemon_species_id": 745,
+      "name": "Wolwerock"
+    },
+    {
+      "pokemon_species_id": 746,
+      "name": "Lusardin"
+    },
+    {
+      "pokemon_species_id": 747,
+      "name": "Garstella"
+    },
+    {
+      "pokemon_species_id": 748,
+      "name": "Aggrostella"
+    },
+    {
+      "pokemon_species_id": 749,
+      "name": "Pampuli"
+    },
+    {
+      "pokemon_species_id": 750,
+      "name": "Pampross"
+    },
+    {
+      "pokemon_species_id": 751,
+      "name": "Araqua"
+    },
+    {
+      "pokemon_species_id": 752,
+      "name": "Aranestro"
+    },
+    {
+      "pokemon_species_id": 753,
+      "name": "Imantis"
+    },
+    {
+      "pokemon_species_id": 754,
+      "name": "Mantidea"
+    },
+    {
+      "pokemon_species_id": 755,
+      "name": "Bubungus"
+    },
+    {
+      "pokemon_species_id": 756,
+      "name": "Lamellux"
+    },
+    {
+      "pokemon_species_id": 757,
+      "name": "Molunk"
+    },
+    {
+      "pokemon_species_id": 758,
+      "name": "Amfira"
+    },
+    {
+      "pokemon_species_id": 759,
+      "name": "Velursi"
+    },
+    {
+      "pokemon_species_id": 760,
+      "name": "Kosturso"
+    },
+    {
+      "pokemon_species_id": 761,
+      "name": "Frubberl"
+    },
+    {
+      "pokemon_species_id": 762,
+      "name": "Frubaila"
+    },
+    {
+      "pokemon_species_id": 763,
+      "name": "Fruyal"
+    },
+    {
+      "pokemon_species_id": 764,
+      "name": "Curelei"
+    },
+    {
+      "pokemon_species_id": 765,
+      "name": "Kommandutan"
+    },
+    {
+      "pokemon_species_id": 766,
+      "name": "Quartermak"
+    },
+    {
+      "pokemon_species_id": 767,
+      "name": "Reißlaus"
+    },
+    {
+      "pokemon_species_id": 768,
+      "name": "Tectass"
+    },
+    {
+      "pokemon_species_id": 769,
+      "name": "Sankabuh"
+    },
+    {
+      "pokemon_species_id": 770,
+      "name": "Colossand"
+    },
+    {
+      "pokemon_species_id": 771,
+      "name": "Gufa"
+    },
+    {
+      "pokemon_species_id": 772,
+      "name": "Typ:Null"
+    },
+    {
+      "pokemon_species_id": 773,
+      "name": "Amigento"
+    },
+    {
+      "pokemon_species_id": 774,
+      "name": "Meteno"
+    },
+    {
+      "pokemon_species_id": 775,
+      "name": "Koalelu"
+    },
+    {
+      "pokemon_species_id": 776,
+      "name": "Tortunator"
+    },
+    {
+      "pokemon_species_id": 777,
+      "name": "Togedemaru"
+    },
+    {
+      "pokemon_species_id": 778,
+      "name": "Mimigma"
+    },
+    {
+      "pokemon_species_id": 779,
+      "name": "Knirfish"
+    },
+    {
+      "pokemon_species_id": 780,
+      "name": "Sen-Long"
+    },
+    {
+      "pokemon_species_id": 781,
+      "name": "Moruda"
+    },
+    {
+      "pokemon_species_id": 782,
+      "name": "Miniras"
+    },
+    {
+      "pokemon_species_id": 783,
+      "name": "Mediras"
+    },
+    {
+      "pokemon_species_id": 784,
+      "name": "Grandiras"
+    },
+    {
+      "pokemon_species_id": 785,
+      "name": "Kapu-Riki"
+    },
+    {
+      "pokemon_species_id": 786,
+      "name": "Kapu-Fala"
+    },
+    {
+      "pokemon_species_id": 787,
+      "name": "Kapu-Toro"
+    },
+    {
+      "pokemon_species_id": 788,
+      "name": "Kapu-Kime"
+    },
+    {
+      "pokemon_species_id": 789,
+      "name": "Cosmog"
+    },
+    {
+      "pokemon_species_id": 790,
+      "name": "Cosmovum"
+    },
+    {
+      "pokemon_species_id": 791,
+      "name": "Solgaleo"
+    },
+    {
+      "pokemon_species_id": 792,
+      "name": "Lunala"
+    },
+    {
+      "pokemon_species_id": 793,
+      "name": "Anego"
+    },
+    {
+      "pokemon_species_id": 794,
+      "name": "Masskito"
+    },
+    {
+      "pokemon_species_id": 795,
+      "name": "Schabelle"
+    },
+    {
+      "pokemon_species_id": 796,
+      "name": "Voltriant"
+    },
+    {
+      "pokemon_species_id": 797,
+      "name": "Kaguron"
+    },
+    {
+      "pokemon_species_id": 798,
+      "name": "Katagami"
+    },
+    {
+      "pokemon_species_id": 799,
+      "name": "Schlingking"
+    },
+    {
+      "pokemon_species_id": 800,
+      "name": "Necrozma"
+    },
+    {
+      "pokemon_species_id": 801,
+      "name": "Magearna"
+    },
+    {
+      "pokemon_species_id": 802,
+      "name": "Marshadow"
+    },
+    {
+      "pokemon_species_id": 803,
+      "name": "Venicro"
+    },
+    {
+      "pokemon_species_id": 804,
+      "name": "Agoyon"
+    },
+    {
+      "pokemon_species_id": 805,
+      "name": "Muramura"
+    },
+    {
+      "pokemon_species_id": 806,
+      "name": "Kopplosio"
+    },
+    {
+      "pokemon_species_id": 807,
+      "name": "Zeraora"
+    },
+    {
+      "pokemon_species_id": 808,
+      "name": "Meltan"
+    },
+    {
+      "pokemon_species_id": 809,
+      "name": "Melmetal"
+    },
+    {
+      "pokemon_species_id": 810,
+      "name": "Chimpep"
+    },
+    {
+      "pokemon_species_id": 811,
+      "name": "Chimstix"
+    },
+    {
+      "pokemon_species_id": 812,
+      "name": "Gortrom"
+    },
+    {
+      "pokemon_species_id": 813,
+      "name": "Hopplo"
+    },
+    {
+      "pokemon_species_id": 814,
+      "name": "Kickerlo"
+    },
+    {
+      "pokemon_species_id": 815,
+      "name": "Liberlo"
+    },
+    {
+      "pokemon_species_id": 816,
+      "name": "Memmeon"
+    },
+    {
+      "pokemon_species_id": 817,
+      "name": "Phlegleon"
+    },
+    {
+      "pokemon_species_id": 818,
+      "name": "Intelleon"
+    },
+    {
+      "pokemon_species_id": 819,
+      "name": "Raffel"
+    },
+    {
+      "pokemon_species_id": 820,
+      "name": "Schlaraffel"
+    },
+    {
+      "pokemon_species_id": 821,
+      "name": "Meikro"
+    },
+    {
+      "pokemon_species_id": 822,
+      "name": "Kranoviz"
+    },
+    {
+      "pokemon_species_id": 823,
+      "name": "Krarmor"
+    },
+    {
+      "pokemon_species_id": 824,
+      "name": "Sensect"
+    },
+    {
+      "pokemon_species_id": 825,
+      "name": "Keradar"
+    },
+    {
+      "pokemon_species_id": 826,
+      "name": "Maritellit"
+    },
+    {
+      "pokemon_species_id": 827,
+      "name": "Kleptifux"
+    },
+    {
+      "pokemon_species_id": 828,
+      "name": "Gaunux"
+    },
+    {
+      "pokemon_species_id": 829,
+      "name": "Cottini"
+    },
+    {
+      "pokemon_species_id": 830,
+      "name": "Cottomi"
+    },
+    {
+      "pokemon_species_id": 831,
+      "name": "Wolly"
+    },
+    {
+      "pokemon_species_id": 832,
+      "name": "Zwollock"
+    },
+    {
+      "pokemon_species_id": 833,
+      "name": "Kamehaps"
+    },
+    {
+      "pokemon_species_id": 834,
+      "name": "Kamalm"
+    },
+    {
+      "pokemon_species_id": 835,
+      "name": "Voldi"
+    },
+    {
+      "pokemon_species_id": 836,
+      "name": "Bellektro"
+    },
+    {
+      "pokemon_species_id": 837,
+      "name": "Klonkett"
+    },
+    {
+      "pokemon_species_id": 838,
+      "name": "Wagong"
+    },
+    {
+      "pokemon_species_id": 839,
+      "name": "Montecarbo"
+    },
+    {
+      "pokemon_species_id": 840,
+      "name": "Knapfel"
+    },
+    {
+      "pokemon_species_id": 841,
+      "name": "Drapfel"
+    },
+    {
+      "pokemon_species_id": 842,
+      "name": "Schlapfel"
+    },
+    {
+      "pokemon_species_id": 843,
+      "name": "Salanga"
+    },
+    {
+      "pokemon_species_id": 844,
+      "name": "Sanaconda"
+    },
+    {
+      "pokemon_species_id": 845,
+      "name": "Urgl"
+    },
+    {
+      "pokemon_species_id": 846,
+      "name": "Pikuda"
+    },
+    {
+      "pokemon_species_id": 847,
+      "name": "Barrakiefa"
+    },
+    {
+      "pokemon_species_id": 848,
+      "name": "Toxel"
+    },
+    {
+      "pokemon_species_id": 849,
+      "name": "Riffex"
+    },
+    {
+      "pokemon_species_id": 850,
+      "name": "Thermopod"
+    },
+    {
+      "pokemon_species_id": 851,
+      "name": "Infernopod"
+    },
+    {
+      "pokemon_species_id": 852,
+      "name": "Klopptopus"
+    },
+    {
+      "pokemon_species_id": 853,
+      "name": "Kaocto"
+    },
+    {
+      "pokemon_species_id": 854,
+      "name": "Fatalitee"
+    },
+    {
+      "pokemon_species_id": 855,
+      "name": "Mortipot"
+    },
+    {
+      "pokemon_species_id": 856,
+      "name": "Brimova"
+    },
+    {
+      "pokemon_species_id": 857,
+      "name": "Brimano"
+    },
+    {
+      "pokemon_species_id": 858,
+      "name": "Silembrim"
+    },
+    {
+      "pokemon_species_id": 859,
+      "name": "Bähmon"
+    },
+    {
+      "pokemon_species_id": 860,
+      "name": "Pelzebub"
+    },
+    {
+      "pokemon_species_id": 861,
+      "name": "Olangaar"
+    },
+    {
+      "pokemon_species_id": 862,
+      "name": "Barrikadax"
+    },
+    {
+      "pokemon_species_id": 863,
+      "name": "Mauzinger"
+    },
+    {
+      "pokemon_species_id": 864,
+      "name": "Gorgasonn"
+    },
+    {
+      "pokemon_species_id": 865,
+      "name": "Lauchzelot"
+    },
+    {
+      "pokemon_species_id": 866,
+      "name": "Pantifrost"
+    },
+    {
+      "pokemon_species_id": 867,
+      "name": "Oghnatoll"
+    },
+    {
+      "pokemon_species_id": 868,
+      "name": "Hokumil"
+    },
+    {
+      "pokemon_species_id": 869,
+      "name": "Pokusan"
+    },
+    {
+      "pokemon_species_id": 870,
+      "name": "Legios"
+    },
+    {
+      "pokemon_species_id": 871,
+      "name": "Britzigel"
+    },
+    {
+      "pokemon_species_id": 872,
+      "name": "Snomnom"
+    },
+    {
+      "pokemon_species_id": 873,
+      "name": "Mottineva"
+    },
+    {
+      "pokemon_species_id": 874,
+      "name": "Humanolith"
+    },
+    {
+      "pokemon_species_id": 875,
+      "name": "Kubuin"
+    },
+    {
+      "pokemon_species_id": 876,
+      "name": "Servol"
+    },
+    {
+      "pokemon_species_id": 877,
+      "name": "Morpeko"
+    },
+    {
+      "pokemon_species_id": 878,
+      "name": "Kupfanti"
+    },
+    {
+      "pokemon_species_id": 879,
+      "name": "Patinaraja"
+    },
+    {
+      "pokemon_species_id": 880,
+      "name": "Lectragon"
+    },
+    {
+      "pokemon_species_id": 881,
+      "name": "Lecryodon"
+    },
+    {
+      "pokemon_species_id": 882,
+      "name": "Pescragon"
+    },
+    {
+      "pokemon_species_id": 883,
+      "name": "Pescryodon"
+    },
+    {
+      "pokemon_species_id": 884,
+      "name": "Duraludon"
+    },
+    {
+      "pokemon_species_id": 885,
+      "name": "Grolldra"
+    },
+    {
+      "pokemon_species_id": 886,
+      "name": "Phandra"
+    },
+    {
+      "pokemon_species_id": 887,
+      "name": "Katapuldra"
+    },
+    {
+      "pokemon_species_id": 888,
+      "name": "Zacian"
+    },
+    {
+      "pokemon_species_id": 889,
+      "name": "Zamazenta"
+    },
+    {
+      "pokemon_species_id": 890,
+      "name": "Endynalos"
+    },
+    {
+      "pokemon_species_id": 891,
+      "name": "Dakuma"
+    },
+    {
+      "pokemon_species_id": 892,
+      "name": "Wulaosu"
+    },
+    {
+      "pokemon_species_id": 893,
+      "name": "Zarude"
+    },
+    {
+      "pokemon_species_id": 894,
+      "name": "Regieleki"
+    },
+    {
+      "pokemon_species_id": 895,
+      "name": "Regidrago"
+    },
+    {
+      "pokemon_species_id": 896,
+      "name": "Polaross"
+    },
+    {
+      "pokemon_species_id": 897,
+      "name": "Phantoross"
+    },
+    {
+      "pokemon_species_id": 898,
+      "name": "Coronospa"
+    },
+    {
+      "pokemon_species_id": 899,
+      "name": "Damythir"
+    },
+    {
+      "pokemon_species_id": 900,
+      "name": "Axantor"
+    },
+    {
+      "pokemon_species_id": 901,
+      "name": "Ursaluna"
+    },
+    {
+      "pokemon_species_id": 902,
+      "name": "Salmagnis"
+    },
+    {
+      "pokemon_species_id": 903,
+      "name": "Snieboss"
+    },
+    {
+      "pokemon_species_id": 904,
+      "name": "Myriador"
+    },
+    {
+      "pokemon_species_id": 905,
+      "name": "Cupidos"
+    },
+    {
+      "pokemon_species_id": 906,
+      "name": "Felori"
+    },
+    {
+      "pokemon_species_id": 907,
+      "name": "Feliospa"
+    },
+    {
+      "pokemon_species_id": 908,
+      "name": "Maskagato"
+    },
+    {
+      "pokemon_species_id": 909,
+      "name": "Krokel"
+    },
+    {
+      "pokemon_species_id": 910,
+      "name": "Lokroko"
+    },
+    {
+      "pokemon_species_id": 911,
+      "name": "Skelokrok"
+    },
+    {
+      "pokemon_species_id": 912,
+      "name": "Kwaks"
+    },
+    {
+      "pokemon_species_id": 913,
+      "name": "Fuentente"
+    },
+    {
+      "pokemon_species_id": 914,
+      "name": "Bailonda"
+    },
+    {
+      "pokemon_species_id": 915,
+      "name": "Ferkuli"
+    },
+    {
+      "pokemon_species_id": 916,
+      "name": "Fragrunz"
+    },
+    {
+      "pokemon_species_id": 917,
+      "name": "Tarundel"
+    },
+    {
+      "pokemon_species_id": 918,
+      "name": "Spinsidias"
+    },
+    {
+      "pokemon_species_id": 919,
+      "name": "Micrick"
+    },
+    {
+      "pokemon_species_id": 920,
+      "name": "Lextremo"
+    },
+    {
+      "pokemon_species_id": 921,
+      "name": "Pamo"
+    },
+    {
+      "pokemon_species_id": 922,
+      "name": "Pamamo"
+    },
+    {
+      "pokemon_species_id": 923,
+      "name": "Pamomamo"
+    },
+    {
+      "pokemon_species_id": 924,
+      "name": "Zwieps"
+    },
+    {
+      "pokemon_species_id": 925,
+      "name": "Famieps"
+    },
+    {
+      "pokemon_species_id": 926,
+      "name": "Hefel"
+    },
+    {
+      "pokemon_species_id": 927,
+      "name": "Backel"
+    },
+    {
+      "pokemon_species_id": 928,
+      "name": "Olini"
+    },
+    {
+      "pokemon_species_id": 929,
+      "name": "Olivinio"
+    },
+    {
+      "pokemon_species_id": 930,
+      "name": "Olithena"
+    },
+    {
+      "pokemon_species_id": 931,
+      "name": "Krawalloro"
+    },
+    {
+      "pokemon_species_id": 932,
+      "name": "Geosali"
+    },
+    {
+      "pokemon_species_id": 933,
+      "name": "Sedisal"
+    },
+    {
+      "pokemon_species_id": 934,
+      "name": "Saltigant"
+    },
+    {
+      "pokemon_species_id": 935,
+      "name": "Knarbon"
+    },
+    {
+      "pokemon_species_id": 936,
+      "name": "Crimanzo"
+    },
+    {
+      "pokemon_species_id": 937,
+      "name": "Azugladis"
+    },
+    {
+      "pokemon_species_id": 938,
+      "name": "Blipp"
+    },
+    {
+      "pokemon_species_id": 939,
+      "name": "Wampitz"
+    },
+    {
+      "pokemon_species_id": 940,
+      "name": "Voltrel"
+    },
+    {
+      "pokemon_species_id": 941,
+      "name": "Voltrean"
+    },
+    {
+      "pokemon_species_id": 942,
+      "name": "Mobtiff"
+    },
+    {
+      "pokemon_species_id": 943,
+      "name": "Mastifioso"
+    },
+    {
+      "pokemon_species_id": 944,
+      "name": "Sproxi"
+    },
+    {
+      "pokemon_species_id": 945,
+      "name": "Affiti"
+    },
+    {
+      "pokemon_species_id": 946,
+      "name": "Weherba"
+    },
+    {
+      "pokemon_species_id": 947,
+      "name": "Horrerba"
+    },
+    {
+      "pokemon_species_id": 948,
+      "name": "Tentagra"
+    },
+    {
+      "pokemon_species_id": 949,
+      "name": "Tenterra"
+    },
+    {
+      "pokemon_species_id": 950,
+      "name": "Klibbe"
+    },
+    {
+      "pokemon_species_id": 951,
+      "name": "Chilingel"
+    },
+    {
+      "pokemon_species_id": 952,
+      "name": "Halupenjo"
+    },
+    {
+      "pokemon_species_id": 953,
+      "name": "Relluk"
+    },
+    {
+      "pokemon_species_id": 954,
+      "name": "Skarabaks"
+    },
+    {
+      "pokemon_species_id": 955,
+      "name": "Flattutu"
+    },
+    {
+      "pokemon_species_id": 956,
+      "name": "Psiopatra"
+    },
+    {
+      "pokemon_species_id": 957,
+      "name": "Forgita"
+    },
+    {
+      "pokemon_species_id": 958,
+      "name": "Tafforgita"
+    },
+    {
+      "pokemon_species_id": 959,
+      "name": "Granforgita"
+    },
+    {
+      "pokemon_species_id": 960,
+      "name": "Schligda"
+    },
+    {
+      "pokemon_species_id": 961,
+      "name": "Schligdri"
+    },
+    {
+      "pokemon_species_id": 962,
+      "name": "Adebom"
+    },
+    {
+      "pokemon_species_id": 963,
+      "name": "Normifin"
+    },
+    {
+      "pokemon_species_id": 964,
+      "name": "Delfinator"
+    },
+    {
+      "pokemon_species_id": 965,
+      "name": "Knattox"
+    },
+    {
+      "pokemon_species_id": 966,
+      "name": "Knattatox"
+    },
+    {
+      "pokemon_species_id": 967,
+      "name": "Mopex"
+    },
+    {
+      "pokemon_species_id": 968,
+      "name": "Schlurm"
+    },
+    {
+      "pokemon_species_id": 969,
+      "name": "Lumispross"
+    },
+    {
+      "pokemon_species_id": 970,
+      "name": "Lumiflora"
+    },
+    {
+      "pokemon_species_id": 971,
+      "name": "Gruff"
+    },
+    {
+      "pokemon_species_id": 972,
+      "name": "Friedwuff"
+    },
+    {
+      "pokemon_species_id": 973,
+      "name": "Flaminkno"
+    },
+    {
+      "pokemon_species_id": 974,
+      "name": "Flaniwal"
+    },
+    {
+      "pokemon_species_id": 975,
+      "name": "Kolowal"
+    },
+    {
+      "pokemon_species_id": 976,
+      "name": "Agiluza"
+    },
+    {
+      "pokemon_species_id": 977,
+      "name": "Heerashai"
+    },
+    {
+      "pokemon_species_id": 978,
+      "name": "Nigiragi"
+    },
+    {
+      "pokemon_species_id": 979,
+      "name": "Epitaff"
+    },
+    {
+      "pokemon_species_id": 980,
+      "name": "Suelord"
+    },
+    {
+      "pokemon_species_id": 981,
+      "name": "Farigiraf"
+    },
+    {
+      "pokemon_species_id": 982,
+      "name": "Dummimisel"
+    },
+    {
+      "pokemon_species_id": 983,
+      "name": "Gladimperio"
+    },
+    {
+      "pokemon_species_id": 984,
+      "name": "Riesenzahn"
+    },
+    {
+      "pokemon_species_id": 985,
+      "name": "Brüllschweif"
+    },
+    {
+      "pokemon_species_id": 986,
+      "name": "Wutpilz"
+    },
+    {
+      "pokemon_species_id": 987,
+      "name": "Flatterhaar"
+    },
+    {
+      "pokemon_species_id": 988,
+      "name": "Kriechflügel"
+    },
+    {
+      "pokemon_species_id": 989,
+      "name": "Sandfell"
+    },
+    {
+      "pokemon_species_id": 990,
+      "name": "Eisenrad"
+    },
+    {
+      "pokemon_species_id": 991,
+      "name": "Eisenbündel"
+    },
+    {
+      "pokemon_species_id": 992,
+      "name": "Eisenhand"
+    },
+    {
+      "pokemon_species_id": 993,
+      "name": "Eisenhals"
+    },
+    {
+      "pokemon_species_id": 994,
+      "name": "Eisenfalter"
+    },
+    {
+      "pokemon_species_id": 995,
+      "name": "Eisendorn"
+    },
+    {
+      "pokemon_species_id": 996,
+      "name": "Frospino"
+    },
+    {
+      "pokemon_species_id": 997,
+      "name": "Cryospino"
+    },
+    {
+      "pokemon_species_id": 998,
+      "name": "Espinodon"
+    },
+    {
+      "pokemon_species_id": 999,
+      "name": "Gierspenst"
+    },
+    {
+      "pokemon_species_id": 1000,
+      "name": "Monetigo"
+    },
+    {
+      "pokemon_species_id": 1001,
+      "name": "Chongjian"
+    },
+    {
+      "pokemon_species_id": 1002,
+      "name": "Baojian"
+    },
+    {
+      "pokemon_species_id": 1003,
+      "name": "Dinglu"
+    },
+    {
+      "pokemon_species_id": 1004,
+      "name": "Yuyu"
+    },
+    {
+      "pokemon_species_id": 1005,
+      "name": "Donnersichel"
+    },
+    {
+      "pokemon_species_id": 1006,
+      "name": "Eisenkrieger"
+    },
+    {
+      "pokemon_species_id": 1007,
+      "name": "Koraidon"
+    },
+    {
+      "pokemon_species_id": 1008,
+      "name": "Miraidon"
+    },
+    {
+      "pokemon_species_id": 1009,
+      "name": "Windewoge"
+    },
+    {
+      "pokemon_species_id": 1010,
+      "name": "Eisenblatt"
+    },
+    {
+      "pokemon_species_id": 1011,
+      "name": "Sirapfel"
+    },
+    {
+      "pokemon_species_id": 1012,
+      "name": "Mortcha"
+    },
+    {
+      "pokemon_species_id": 1013,
+      "name": "Fatalitcha"
+    },
+    {
+      "pokemon_species_id": 1014,
+      "name": "Boninu"
+    },
+    {
+      "pokemon_species_id": 1015,
+      "name": "Benesaru"
+    },
+    {
+      "pokemon_species_id": 1016,
+      "name": "Beatori"
+    },
+    {
+      "pokemon_species_id": 1017,
+      "name": "Ogerpon"
+    },
+    {
+      "pokemon_species_id": 1018,
+      "name": "Briduradon"
+    },
+    {
+      "pokemon_species_id": 1019,
+      "name": "Hydrapfel"
+    },
+    {
+      "pokemon_species_id": 1020,
+      "name": "Keilflamme"
+    },
+    {
+      "pokemon_species_id": 1021,
+      "name": "Furienblitz"
+    },
+    {
+      "pokemon_species_id": 1022,
+      "name": "Eisenfels"
+    },
+    {
+      "pokemon_species_id": 1023,
+      "name": "Eisenhaupt"
+    },
+    {
+      "pokemon_species_id": 1024,
+      "name": "Terapagos"
+    },
+    {
+      "pokemon_species_id": 10013,
+      "name": "Formeo Sonnenschein"
+    },
+    {
+      "pokemon_species_id": 10014,
+      "name": "Formeo Regen"
+    },
+    {
+      "pokemon_species_id": 10015,
+      "name": "Formeo Hagelsturm"
+    },
+    {
+      "pokemon_species_id": "422-east",
+      "name": "Schalellos Ost"
+    },
+    {
+      "pokemon_species_id": "423-east",
+      "name": "Gastrodon Ost"
+    },
+    {
+      "pokemon_species_id": "550-blue-striped",
+      "name": "Barschuft Blaulinig"
+    },
+    {
+      "pokemon_species_id": "585-summer",
+      "name": "Sesokitz Sommer"
+    },
+    {
+      "pokemon_species_id": "585-autumn",
+      "name": "Sesokitz Herbst"
+    },
+    {
+      "pokemon_species_id": "585-winter",
+      "name": "Sesokitz Winter"
+    },
+    {
+      "pokemon_species_id": "586-summer",
+      "name": "Kronjuwild Sommer"
+    },
+    {
+      "pokemon_species_id": "586-autumn",
+      "name": "Kronjuwild Herbst"
+    },
+    {
+      "pokemon_species_id": "586-winter",
+      "name": "Kronjuwild Winter"
+    },
+    {
+      "pokemon_species_id": 10091,
+      "name": "Rattfratz Alola"
+    },
+    {
+      "pokemon_species_id": 10092,
+      "name": "Rattikarl Alola"
+    }
+   ]

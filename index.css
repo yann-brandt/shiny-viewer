@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    display: grid;
+    background-color: royalblue;
+    grid-template-columns: 60% 17.5% 17.5% 5%;
+    grid-template-rows: 1fr 90%;
+    grid-template-areas:    "input clear wiki rezepte"
+                            "sprites sprites sprites sprites";
+
+}
+
+body * {
+font-size: 2.5vh;
+}
+
+
+#input {
+    grid-area: input;
+
+}
+
+#clear {
+    grid-area: clear;
+}
+
+#wiki {
+    grid-area: wiki;
+}
+
+#rezepte {
+    grid-area: rezepte;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sprites {
+grid-area: sprites;
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-areas: "normal shiny";
+
+}
+
+img {
+    width: 100%;
+object-fit: contain;
+max-height: 90vh;
+}
+
+#normal {
+    grid-area: normal;
+}
+
+#shiny {
+    grid-area: shiny;
+}
+
+#kochbuch {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity  0.3s ease;
+    pointer-events: none;
+    height: 80vh;
+}
+
+#rezepte:hover #kochbuch {
+    opacity: 1;
+}
+
