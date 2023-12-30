@@ -15,8 +15,20 @@ body {
 }
 
 body * {
-font-size: 2.5vh;
+    font-size: 2.5vh;
+    }
+
+@media only screen and (max-width: 768px) {
+    body {grid-template-columns: 60% 15% 15% 10%;
+    }
+
+    body * {
+        font-size: 1.8vh;
+    }
 }
+
+
+
 
 
 #input {
