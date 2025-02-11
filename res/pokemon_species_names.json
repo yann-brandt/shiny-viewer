@@ -3393,7 +3393,7 @@
     },
     {
       "pokemon_species_id": 849,
-      "name": "Riffex"
+      "name": "Riffex Hochform"
     },
     {
       "pokemon_species_id": 850,
@@ -4150,5 +4150,9 @@
     {
       "pokemon_species_id": 10092,
       "name": "Rattikarl Alola"
+    },
+    {
+      "pokemon_species_id": 10184,
+      "name": "Riffex Tiefform"
     }
    ]
