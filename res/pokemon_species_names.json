@@ -1541,7 +1541,7 @@
     },
     {
       "pokemon_species_id": 386,
-      "name": "Deoxys"
+      "name": "Deoxys Normalform"
     },
     {
       "pokemon_species_id": 387,
@@ -1649,7 +1649,7 @@
     },
     {
       "pokemon_species_id": 413,
-      "name": "Burmadame"
+      "name": "Burmadame Pflanzenumhang"
     },
     {
       "pokemon_species_id": 414,
@@ -1685,11 +1685,11 @@
     },
     {
       "pokemon_species_id": 422,
-      "name": "Schalellos West"
+      "name": "Schalellos Westliches Meer"
     },
     {
       "pokemon_species_id": 423,
-      "name": "Gastrodon West"
+      "name": "Gastrodon Westliches Meer"
     },
     {
       "pokemon_species_id": 424,
@@ -1945,7 +1945,7 @@
     },
     {
       "pokemon_species_id": 487,
-      "name": "Giratina"
+      "name": "Giratina Wandelform"
     },
     {
       "pokemon_species_id": 488,
@@ -1965,7 +1965,7 @@
     },
     {
       "pokemon_species_id": 492,
-      "name": "Shaymin"
+      "name": "Shaymin Landform"
     },
     {
       "pokemon_species_id": 493,
@@ -2197,7 +2197,7 @@
     },
     {
       "pokemon_species_id": 550,
-      "name": "Barschuft Rotlinig"
+      "name": "Barschuft rotlinig"
     },
     {
       "pokemon_species_id": 551,
@@ -2217,7 +2217,7 @@
     },
     {
       "pokemon_species_id": 555,
-      "name": "Flampivian"
+      "name": "Flampivian Normalmodus"
     },
     {
       "pokemon_species_id": 556,
@@ -2365,11 +2365,11 @@
     },
     {
       "pokemon_species_id": 592,
-      "name": "Quabbel"
+      "name": "Quabbel männlich"
     },
     {
       "pokemon_species_id": 593,
-      "name": "Apoquallyp"
+      "name": "Apoquallyp männlich"
     },
     {
       "pokemon_species_id": 594,
@@ -2561,11 +2561,11 @@
     },
     {
       "pokemon_species_id": 641,
-      "name": "Boreos"
+      "name": "Boreos Inkarnationsform"
     },
     {
       "pokemon_species_id": 642,
-      "name": "Voltolos"
+      "name": "Voltolos Inkarnationsform"
     },
     {
       "pokemon_species_id": 643,
@@ -2577,7 +2577,7 @@
     },
     {
       "pokemon_species_id": 645,
-      "name": "Demeteros"
+      "name": "Demeteros Inkarnationsform"
     },
     {
       "pokemon_species_id": 646,
@@ -2585,11 +2585,11 @@
     },
     {
       "pokemon_species_id": 647,
-      "name": "Keldeo"
+      "name": "Keldeo Standardform"
     },
     {
       "pokemon_species_id": 648,
-      "name": "Meloetta"
+      "name": "Meloetta Gesangsform"
     },
     {
       "pokemon_species_id": 649,
@@ -2709,7 +2709,7 @@
     },
     {
       "pokemon_species_id": 678,
-      "name": "Psiaugon"
+      "name": "Psiaugon ♂"
     },
     {
       "pokemon_species_id": 679,
@@ -2721,7 +2721,7 @@
     },
     {
       "pokemon_species_id": 681,
-      "name": "Durengard"
+      "name": "Durengard Schildform"
     },
     {
       "pokemon_species_id": 682,
@@ -2837,11 +2837,11 @@
     },
     {
       "pokemon_species_id": 710,
-      "name": "Irrbis"
+      "name": "Irrbis M"
     },
     {
       "pokemon_species_id": 711,
-      "name": "Pumpdjinn"
+      "name": "Pumpdjinn M"
     },
     {
       "pokemon_species_id": 712,
@@ -2877,7 +2877,7 @@
     },
     {
       "pokemon_species_id": 720,
-      "name": "Hoopa"
+      "name": "Gebanntes Hoopa"
     },
     {
       "pokemon_species_id": 721,
@@ -2961,7 +2961,7 @@
     },
     {
       "pokemon_species_id": 741,
-      "name": "Choreogel"
+      "name": "Choreogel Flamenco-Stil"
     },
     {
       "pokemon_species_id": 742,
@@ -2977,11 +2977,11 @@
     },
     {
       "pokemon_species_id": 745,
-      "name": "Wolwerock"
+      "name": "Wolwerock Tagform"
     },
     {
       "pokemon_species_id": 746,
-      "name": "Lusardin"
+      "name": "Lusardin Einzelform"
     },
     {
       "pokemon_species_id": 747,
@@ -3109,7 +3109,7 @@
     },
     {
       "pokemon_species_id": 778,
-      "name": "Mimigma"
+      "name": "Mimigma verkleidete Form"
     },
     {
       "pokemon_species_id": 779,
@@ -3393,7 +3393,7 @@
     },
     {
       "pokemon_species_id": 849,
-      "name": "Riffex Hochform"
+      "name": "Riffex Hoch-Form"
     },
     {
       "pokemon_species_id": 850,
@@ -3497,15 +3497,15 @@
     },
     {
       "pokemon_species_id": 875,
-      "name": "Kubuin"
+      "name": "Kubuin Tiefkühlkopf"
     },
     {
       "pokemon_species_id": 876,
-      "name": "Servol"
+      "name": "Servol ♂"
     },
     {
       "pokemon_species_id": 877,
-      "name": "Morpeko"
+      "name": "Morpeko Pappsattmuster"
     },
     {
       "pokemon_species_id": 878,
@@ -3549,11 +3549,11 @@
     },
     {
       "pokemon_species_id": 888,
-      "name": "Zacian"
+      "name": "Zacian Heldenhafter Krieger"
     },
     {
       "pokemon_species_id": 889,
-      "name": "Zamazenta"
+      "name": "Zamazenta Heldenhafter Krieger"
     },
     {
       "pokemon_species_id": 890,
@@ -3565,7 +3565,7 @@
     },
     {
       "pokemon_species_id": 892,
-      "name": "Wulaosu"
+      "name": "Wulaosu Fokussierter Stil"
     },
     {
       "pokemon_species_id": 893,
@@ -3605,7 +3605,7 @@
     },
     {
       "pokemon_species_id": 902,
-      "name": "Salmagnis"
+      "name": "Salmagnis männlich"
     },
     {
       "pokemon_species_id": 903,
@@ -3617,7 +3617,7 @@
     },
     {
       "pokemon_species_id": 905,
-      "name": "Cupidos"
+      "name": "Cupidos Inkarnationsform"
     },
     {
       "pokemon_species_id": 906,
@@ -3661,7 +3661,7 @@
     },
     {
       "pokemon_species_id": 916,
-      "name": "Fragrunz"
+      "name": "Fragrunz männlich"
     },
     {
       "pokemon_species_id": 917,
@@ -3697,7 +3697,7 @@
     },
     {
       "pokemon_species_id": 925,
-      "name": "Famieps"
+      "name": "Famieps Viererfamilie"
     },
     {
       "pokemon_species_id": 926,
@@ -3721,7 +3721,7 @@
     },
     {
       "pokemon_species_id": 931,
-      "name": "Krawalloro"
+      "name": "Krawalloro grüngefiedert"
     },
     {
       "pokemon_species_id": 932,
@@ -3853,7 +3853,7 @@
     },
     {
       "pokemon_species_id": 964,
-      "name": "Delfinator"
+      "name": "Delfinator Alltagsform"
     },
     {
       "pokemon_species_id": 965,
@@ -3909,7 +3909,7 @@
     },
     {
       "pokemon_species_id": 978,
-      "name": "Nigiragi"
+      "name": "Nigiragi gebogene Form"
     },
     {
       "pokemon_species_id": 979,
@@ -3925,7 +3925,7 @@
     },
     {
       "pokemon_species_id": 982,
-      "name": "Dummimisel"
+      "name": "Dummimisel Zweisegmentform"
     },
     {
       "pokemon_species_id": 983,
@@ -3993,7 +3993,7 @@
     },
     {
       "pokemon_species_id": 999,
-      "name": "Gierspenst"
+      "name": "Gierspenst Truhenform"
     },
     {
       "pokemon_species_id": 1000,
@@ -4025,11 +4025,11 @@
     },
     {
       "pokemon_species_id": 1007,
-      "name": "Koraidon"
+      "name": "Koraidon vollkommene Gestalt"
     },
     {
       "pokemon_species_id": 1008,
-      "name": "Miraidon"
+      "name": "Miraidon vollkommene Gestalt"
     },
     {
       "pokemon_species_id": 1009,
@@ -4065,7 +4065,7 @@
     },
     {
       "pokemon_species_id": 1017,
-      "name": "Ogerpon"
+      "name": "Ogerpon Türkisgrüne Maske"
     },
     {
       "pokemon_species_id": 1018,
@@ -4096,28 +4096,1032 @@
       "name": "Terapagos"
     },
     {
+      "pokemon_species_id": 1025,
+      "name": "Infamomo"
+    },
+    {
+      "pokemon_species_id": 10001,
+      "name": "Deoxys Angriffsform"
+    },
+    {
+      "pokemon_species_id": 10002,
+      "name": "Deoxys Verteidigungsform"
+    },
+    {
+      "pokemon_species_id": 10003,
+      "name": "Deoxys Initiativeform"
+    },
+    {
+      "pokemon_species_id": 10004,
+      "name": "Burmadame Sandumhang"
+    },
+    {
+      "pokemon_species_id": 10005,
+      "name": "Burmadame Lumpenumhang"
+    },
+    {
+      "pokemon_species_id": 10006,
+      "name": "Shaymin Zenitform"
+    },
+    {
+      "pokemon_species_id": 10007,
+      "name": "Giratina Urform"
+    },
+    {
+      "pokemon_species_id": 10008,
+      "name": "Rotom Hitze"
+    },
+    {
+      "pokemon_species_id": 10009,
+      "name": "Rotom Wasch"
+    },
+    {
+      "pokemon_species_id": 10010,
+      "name": "Rotom Frost"
+    },
+    {
+      "pokemon_species_id": 10011,
+      "name": "Rotom Wirbel"
+    },
+    {
+      "pokemon_species_id": 10012,
+      "name": "Rotom Schneid"
+    },
+    {
       "pokemon_species_id": 10013,
-      "name": "Formeo Sonnenschein"
+      "name": "Formeo Sonnenform"
     },
     {
       "pokemon_species_id": 10014,
-      "name": "Formeo Regen"
+      "name": "Formeo Regenform"
     },
     {
       "pokemon_species_id": 10015,
-      "name": "Formeo Hagelsturm"
+      "name": "Formeo Schneeform"
     },
     {
+      "pokemon_species_id": 10016,
+      "name": "Barschuft blaulinig"
+    },
+    {
+      "pokemon_species_id": 10017,
+      "name": "Flampivian Trance-Modus"
+    },
+    {
+      "pokemon_species_id": 10018,
+      "name": "Meloetta Tanzform"
+    },
+    {
+      "pokemon_species_id": 10019,
+      "name": "Boreos Tiergeistform"
+    },
+    {
+      "pokemon_species_id": 10020,
+      "name": "Voltolos Tiergeistform"
+    },
+    {
+      "pokemon_species_id": 10021,
+      "name": "Demeteros Tiergeistform"
+    },
+    {
+      "pokemon_species_id": 10022,
+      "name": "Schwarzes Kyurem"
+    },
+    {
+      "pokemon_species_id": 10023,
+      "name": "Weißes Kyurem"
+    },
+    {
+      "pokemon_species_id": 10024,
+      "name": "Keldeo Resolutform"
+    },
+    {
+      "pokemon_species_id": 10025,
+      "name": "Psiaugon ♀"
+    },
+    {
+      "pokemon_species_id": 10026,
+      "name": "Durengard Klingenform"
+    },
+    {
+      "pokemon_species_id": 10027,
+      "name": "Irrbis S"
+    },
+    {
+      "pokemon_species_id": 10028,
+      "name": "Irrbis L"
+    },
+    {
+      "pokemon_species_id": 10029,
+      "name": "Irrbis XL"
+    },
+    {
+      "pokemon_species_id": 10030,
+      "name": "Pumpdjinn S"
+    },
+    {
+      "pokemon_species_id": 10031,
+      "name": "Pumpdjinn L"
+    },
+    {
+      "pokemon_species_id": 10032,
+      "name": "Pumpdjinn XL"
+    },
+    {
+      "pokemon_species_id": 10033,
+      "name": "Mega-Bisaflor"
+    },
+    {
+      "pokemon_species_id": 10034,
+      "name": "Mega- Glurak X"
+    },
+    {
+      "pokemon_species_id": 10035,
+      "name": "Mega-Glurak Y"
+    },
+    {
+      "pokemon_species_id": 10036,
+      "name": "Mega-Turtok"
+    },
+    {
+      "pokemon_species_id": 10037,
+      "name": "Mega-Simsala"
+    },
+    {
+      "pokemon_species_id": 10038,
+      "name": "Mega-Gengar"
+    },
+    {
+      "pokemon_species_id": 10039,
+      "name": "Mega-Kangama"
+    },
+    {
+      "pokemon_species_id": 10040,
+      "name": "Mega-Pinsir"
+    },
+    {
+      "pokemon_species_id": 10041,
+      "name": "Mega-Garados"
+    },
+    {
+      "pokemon_species_id": 10042,
+      "name": "Mega-Aerodactyl"
+    },
+    {
+      "pokemon_species_id": 10043,
+      "name": "Mega-Mewtu X"
+    },
+    {
+      "pokemon_species_id": 10044,
+      "name": "Mega-Mewtu Y"
+    },
+    {
+      "pokemon_species_id": 10045,
+      "name": "Mega-Ampharos"
+    },
+    {
+      "pokemon_species_id": 10046,
+      "name": "Mega-Scherox"
+    },
+    {
+      "pokemon_species_id": 10047,
+      "name": "Mega-Skaraborn"
+    },
+    {
+      "pokemon_species_id": 10048,
+      "name": "Mega-Hundemon"
+    },
+    {
+      "pokemon_species_id": 10049,
+      "name": "Mega-Despotar"
+    },
+    {
+      "pokemon_species_id": 10050,
+      "name": "Mega-Lohgock"
+    },
+    {
+      "pokemon_species_id": 10051,
+      "name": "Mega-Guardevoir"
+    },
+    {
+      "pokemon_species_id": 10052,
+      "name": "Mega-Flunkifer"
+    },
+    {
+      "pokemon_species_id": 10053,
+      "name": "Mega-Stolloss"
+    },
+    {
+      "pokemon_species_id": 10054,
+      "name": "Mega-Meditalis"
+    },
+    {
+      "pokemon_species_id": 10055,
+      "name": "Mega-Voltenso"
+    },
+    {
+      "pokemon_species_id": 10056,
+      "name": "Mega-Banette"
+    },
+    {
+      "pokemon_species_id": 10057,
+      "name": "Mega-Absol"
+    },
+    {
+      "pokemon_species_id": 10058,
+      "name": "Mega-Knakrack"
+    },
+    {
+      "pokemon_species_id": 10059,
+      "name": "Mega-Lucario"
+    },
+    {
+      "pokemon_species_id": 10060,
+      "name": "Mega-Rexblisar"
+    },
+    {
+      "pokemon_species_id": 10061,
+      "name": "Floette Ewigblütler"
+    },
+    {
+      "pokemon_species_id": 10062,
+      "name": "Mega-Latias"
+    },
+    {
+      "pokemon_species_id": 10063,
+      "name": "Mega-Latios"
+    },
+    {
+      "pokemon_species_id": 10064,
+      "name": "Mega-Sumpex"
+    },
+    {
+      "pokemon_species_id": 10065,
+      "name": "Mega-Gewaldro"
+    },
+    {
+      "pokemon_species_id": 10066,
+      "name": "Mega-Zobiris"
+    },
+    {
+      "pokemon_species_id": 10067,
+      "name": "Mega-Altaria"
+    },
+    {
+      "pokemon_species_id": 10068,
+      "name": "Mega-Galagladi"
+    },
+    {
+      "pokemon_species_id": 10069,
+      "name": "Mega-Ohrdoch"
+    },
+    {
+      "pokemon_species_id": 10070,
+      "name": "Mega-Tohaido"
+    },
+    {
+      "pokemon_species_id": 10071,
+      "name": "Mega-Lahmus"
+    },
+    {
+      "pokemon_species_id": 10072,
+      "name": "Mega-Stahlos"
+    },
+    {
+      "pokemon_species_id": 10073,
+      "name": "Mega-Tauboss"
+    },
+    {
+      "pokemon_species_id": 10074,
+      "name": "Mega-Firnontor"
+    },
+    {
+      "pokemon_species_id": 10075,
+      "name": "Mega-Diancie"
+    },
+    {
+      "pokemon_species_id": 10076,
+      "name": "Mega-Metagross"
+    },
+    {
+      "pokemon_species_id": 10077,
+      "name": "Kyogre Protomorphose"
+    },
+    {
+      "pokemon_species_id": 10078,
+      "name": "Groudon Protomorphose"
+    },
+    {
+      "pokemon_species_id": 10079,
+      "name": "Mega-Rayquaza"
+    },
+    {
+      "pokemon_species_id": 10080,
+      "name": "Rocker-Pikachu"
+    },
+    {
+      "pokemon_species_id": 10081,
+      "name": "Damen-Pikachu"
+    },
+    {
+      "pokemon_species_id": 10082,
+      "name": "Star-Pikachu"
+    },
+    {
+      "pokemon_species_id": 10083,
+      "name": "Professoren-Pikachu"
+    },
+    {
+      "pokemon_species_id": 10084,
+      "name": "Wrestler-Pikachu"
+    },
+    {
+      "pokemon_species_id": 10085,
+      "name": "Cosplay-Pikachu"
+    },
+    {
+      "pokemon_species_id": 10086,
+      "name": "Entfesseltes Hoopa"
+    },
+    {
+      "pokemon_species_id": 10087,
+      "name": "Mega-Camerupt"
+    },
+    {
+      "pokemon_species_id": 10088,
+      "name": "Mega-Schlapor"
+    },
+    {
+      "pokemon_species_id": 10089,
+      "name": "Mega-Brutalanda"
+    },
+    {
+      "pokemon_species_id": 10090,
+      "name": "Mega-Bibor"
+    },
+    {
+      "pokemon_species_id": 10091,
+      "name": "Alola-Rattfratz"
+    },
+    {
+      "pokemon_species_id": 10092,
+      "name": "Alola-Rattikarl"
+    },
+    {
+      "pokemon_species_id": 10094,
+      "name": "Pikachu Original-Kappe"
+    },
+    {
+      "pokemon_species_id": 10095,
+      "name": "Pikachu Hoenn-Kappe"
+    },
+    {
+      "pokemon_species_id": 10096,
+      "name": "Pikachu Sinnoh-Kappe"
+    },
+    {
+      "pokemon_species_id": 10097,
+      "name": "Pikachu Einall-Kappe"
+    },
+    {
+      "pokemon_species_id": 10098,
+      "name": "Pikachu Kalos-Kappe"
+    },
+    {
+      "pokemon_species_id": 10099,
+      "name": "Pikachu Alola-Kappe"
+    },
+    {
+      "pokemon_species_id": 10100,
+      "name": "Alola-Raichu"
+    },
+    {
+      "pokemon_species_id": 10101,
+      "name": "Alola-Sandan"
+    },
+    {
+      "pokemon_species_id": 10102,
+      "name": "Alola-Sandamer"
+    },
+    {
+      "pokemon_species_id": 10103,
+      "name": "Alola-Vulpix"
+    },
+    {
+      "pokemon_species_id": 10104,
+      "name": "Alola-Vulnona"
+    },
+    {
+      "pokemon_species_id": 10105,
+      "name": "Alola-Digda"
+    },
+    {
+      "pokemon_species_id": 10106,
+      "name": "Alola-Digdri"
+    },
+    {
+      "pokemon_species_id": 10107,
+      "name": "Alola-Mauzi"
+    },
+    {
+      "pokemon_species_id": 10108,
+      "name": "Alola-Snobilikat"
+    },
+    {
+      "pokemon_species_id": 10109,
+      "name": "Alola-Kleinstein"
+    },
+    {
+      "pokemon_species_id": 10110,
+      "name": "Alola-Georok"
+    },
+    {
+      "pokemon_species_id": 10111,
+      "name": "Alola-Geowaz"
+    },
+    {
+      "pokemon_species_id": 10112,
+      "name": "Alola-Sleima"
+    },
+    {
+      "pokemon_species_id": 10113,
+      "name": "Alola-Sleimok"
+    },
+    {
+      "pokemon_species_id": 10114,
+      "name": "Alola-Kokowei"
+    },
+    {
+      "pokemon_species_id": 10115,
+      "name": "Alola-Knogga"
+    },
+    {
+      "pokemon_species_id": 10117,
+      "name": "Ash-Quajutsu"
+    },
+    {
+      "pokemon_species_id": 10118,
+      "name": "Zygarde 10%-Form"
+    },
+    {
+      "pokemon_species_id": 10119,
+      "name": "Zygarde 50%-Form"
+    },
+    {
+      "pokemon_species_id": 10120,
+      "name": "Zygarde Optimumform"
+    },
+    {
+      "pokemon_species_id": 10123,
+      "name": "Choreogel Cheerleading-Stil"
+    },
+    {
+      "pokemon_species_id": 10124,
+      "name": "Choreogel Hula-Stil"
+    },
+    {
+      "pokemon_species_id": 10125,
+      "name": "Choreogel Buyo-Stil"
+    },
+    {
+      "pokemon_species_id": 10126,
+      "name": "Wolwerock Nachtform"
+    },
+    {
+      "pokemon_species_id": 10127,
+      "name": "Lusardin Schwarmform"
+    },
+    {
+      "pokemon_species_id": 10136,
+      "name": "Meteno roter Kern"
+    },
+    {
+      "pokemon_species_id": 10137,
+      "name": "Meteno orangener Kern"
+    },
+    {
+      "pokemon_species_id": 10138,
+      "name": "Meteno gelber Kern"
+    },
+    {
+      "pokemon_species_id": 10139,
+      "name": "Meteno grüner Kern"
+    },
+    {
+      "pokemon_species_id": 10140,
+      "name": "Meteno hellblauer Kern"
+    },
+    {
+      "pokemon_species_id": 10141,
+      "name": "Meteno blauer Kern"
+    },
+    {
+      "pokemon_species_id": 10142,
+      "name": "Meteno violetter Kern"
+    },
+    {
+      "pokemon_species_id": 10143,
+      "name": "Mimigma entlarvte Form"
+    },
+    {
+      "pokemon_species_id": 10147,
+      "name": "Magearna Originalfarbe"
+    },
+    {
+      "pokemon_species_id": 10152,
+      "name": "Wolwerock Zwielichtform"
+    },
+    {
+      "pokemon_species_id": 10155,
+      "name": "Necrozma Abendmähne"
+    },
+    {
+      "pokemon_species_id": 10156,
+      "name": "Necrozma Morgenschwingen"
+    },
+    {
+      "pokemon_species_id": 10157,
+      "name": "Ultra-Necrozma"
+    },
+    {
+      "pokemon_species_id": 10161,
+      "name": "Galar-Mauzi"
+    },
+    {
+      "pokemon_species_id": 10162,
+      "name": "Galar-Ponita"
+    },
+    {
+      "pokemon_species_id": 10163,
+      "name": "Galar-Gallopa"
+    },
+    {
+      "pokemon_species_id": 10164,
+      "name": "Galar-Flegmon"
+    },
+    {
+      "pokemon_species_id": 10165,
+      "name": "Galar-Lahmus"
+    },
+    {
+      "pokemon_species_id": 10166,
+      "name": "Galar-Porenta"
+    },
+    {
+      "pokemon_species_id": 10167,
+      "name": "Galar-Smogmog"
+    },
+    {
+      "pokemon_species_id": 10168,
+      "name": "Galar-Pantimos"
+    },
+    {
+      "pokemon_species_id": 10169,
+      "name": "Galar-Arktos"
+    },
+    {
+      "pokemon_species_id": 10170,
+      "name": "Galar-Zapdos"
+    },
+    {
+      "pokemon_species_id": 10171,
+      "name": "Galar-Lavados"
+    },
+    {
+      "pokemon_species_id": 10172,
+      "name": "Galar-Laschoking"
+    },
+    {
+      "pokemon_species_id": 10173,
+      "name": "Galar-Corasonn"
+    },
+    {
+      "pokemon_species_id": 10174,
+      "name": "Galar-Zigzachs"
+    },
+    {
+      "pokemon_species_id": 10175,
+      "name": "Galar-Geradaks"
+    },
+    {
+      "pokemon_species_id": 10176,
+      "name": "Galar-Flampion"
+    },
+    {
+      "pokemon_species_id": 10177,
+      "name": "Galar-Flampivian Normalmodus"
+    },
+    {
+      "pokemon_species_id": 10178,
+      "name": "Galar-Flampivian Trance-Modus"
+    },
+    {
+      "pokemon_species_id": 10179,
+      "name": "Galar-Makabaja"
+    },
+    {
+      "pokemon_species_id": 10180,
+      "name": "Galar-Flunschlik"
+    },
+    {
+      "pokemon_species_id": 10182,
+      "name": "Urgl Schlingform"
+    },
+    {
+      "pokemon_species_id": 10183,
+      "name": "Urgl Stopfform"
+    },
+    {
+      "pokemon_species_id": 10184,
+      "name": "Riffex Tief-Form"
+    },
+    {
+      "pokemon_species_id": 10185,
+      "name": "Kubuin Wohlfühlkopf"
+    },
+    {
+      "pokemon_species_id": 10186,
+      "name": "Servol ♀"
+    },
+    {
+      "pokemon_species_id": 10187,
+      "name": "Morpeko Kohldampfmuster"
+    },
+    {
+      "pokemon_species_id": 10188,
+      "name": "Zacian König des Schwertes"
+    },
+    {
+      "pokemon_species_id": 10189,
+      "name": "Zamazenta König des Schildes"
+    },
+    {
+      "pokemon_species_id": 10190,
+      "name": "Unendynamax-Endynalos"
+    },
+    {
+      "pokemon_species_id": 10191,
+      "name": "Wulaosu Fließender Stil"
+    },
+    {
+      "pokemon_species_id": 10192,
+      "name": "Zarude (Papa)"
+    },
+    {
+      "pokemon_species_id": 10193,
+      "name": "Coronospa Schimmelreiter"
+    },
+    {
+      "pokemon_species_id": 10194,
+      "name": "Coronospa Rappenreiter"
+    },
+    {
+      "pokemon_species_id": 10195,
+      "name": "Gigadynamax-Bisaflor"
+    },
+    {
+      "pokemon_species_id": 10196,
+      "name": "Gigadynamax-Glurak"
+    },
+    {
+      "pokemon_species_id": 10197,
+      "name": "Gigadynamax-Turtok"
+    },
+    {
+      "pokemon_species_id": 10198,
+      "name": "Gigadynamax-Smettbo"
+    },
+    {
+      "pokemon_species_id": 10199,
+      "name": "Gigadynamax-Pikachu"
+    },
+    {
+      "pokemon_species_id": 10200,
+      "name": "Gigadynamax-Mauzi"
+    },
+    {
+      "pokemon_species_id": 10201,
+      "name": "Gigadynamax-Machomei"
+    },
+    {
+      "pokemon_species_id": 10202,
+      "name": "Gigadynamax-Gengar"
+    },
+    {
+      "pokemon_species_id": 10203,
+      "name": "Gigadynamax-Kingler"
+    },
+    {
+      "pokemon_species_id": 10204,
+      "name": "Gigadynamax-Lapras"
+    },
+    {
+      "pokemon_species_id": 10205,
+      "name": "Gigadynamax-Evoli"
+    },
+    {
+      "pokemon_species_id": 10206,
+      "name": "Gigadynamax-Relaxo"
+    },
+    {
+      "pokemon_species_id": 10207,
+      "name": "Gigadynamax-Deponitox"
+    },
+    {
+      "pokemon_species_id": 10208,
+      "name": "Gigadynamax-Melmetal"
+    },
+    {
+      "pokemon_species_id": 10209,
+      "name": "Gigadynamax-Gortrom"
+    },
+    {
+      "pokemon_species_id": 10210,
+      "name": "Gigadynamax-Liberlo"
+    },
+    {
+      "pokemon_species_id": 10211,
+      "name": "Gigadynamax-Intelleon"
+    },
+    {
+      "pokemon_species_id": 10212,
+      "name": "Gigadynamax-Krarmor"
+    },
+    {
+      "pokemon_species_id": 10213,
+      "name": "Gigadynamax-Maritellit"
+    },
+    {
+      "pokemon_species_id": 10214,
+      "name": "Gigadynamax-Kamalm"
+    },
+    {
+      "pokemon_species_id": 10215,
+      "name": "Gigadynamax-Montecarbo"
+    },
+    {
+      "pokemon_species_id": 10216,
+      "name": "Gigadynamax-Drapfel"
+    },
+    {
+      "pokemon_species_id": 10217,
+      "name": "Gigadynamax-Schlapfel"
+    },
+    {
+      "pokemon_species_id": 10218,
+      "name": "Gigadynamax-Sanaconda"
+    },
+    {
+      "pokemon_species_id": 10219,
+      "name": "Gigadynamax-Riffex Hoch-Form"
+    },
+    {
+      "pokemon_species_id": 10220,
+      "name": "Gigadynamax-Infernopod"
+    },
+    {
+      "pokemon_species_id": 10221,
+      "name": "Gigadynamax-Silembrim"
+    },
+    {
+      "pokemon_species_id": 10222,
+      "name": "Gigadynamax-Olangaar"
+    },
+    {
+      "pokemon_species_id": 10223,
+      "name": "Gigadynamax-Pokusan"
+    },
+    {
+      "pokemon_species_id": 10224,
+      "name": "Gigadynamax-Patinaraja"
+    },
+    {
+      "pokemon_species_id": 10225,
+      "name": "Gigadynamax-Duraludon"
+    },
+    {
+      "pokemon_species_id": 10226,
+      "name": "Gigadynamax-Wulaosu Fokussierter Stil"
+    },
+    {
+      "pokemon_species_id": 10227,
+      "name": "Gigadynamax-Wulaosu Fließender Stil"
+    },
+    {
+      "pokemon_species_id": 10228,
+      "name": "Gigadynamax-Riffex Tief-Form"
+    },
+    {
+      "pokemon_species_id": 10229,
+      "name": "Hisui-Fukano"
+    },
+    {
+      "pokemon_species_id": 10230,
+      "name": "Hisui-Arkani"
+    },
+    {
+      "pokemon_species_id": 10231,
+      "name": "Hisui-Voltobal"
+    },
+    {
+      "pokemon_species_id": 10232,
+      "name": "Hisui-Lektrobal"
+    },
+    {
+      "pokemon_species_id": 10233,
+      "name": "Hisui-Tornupto"
+    },
+    {
+      "pokemon_species_id": 10234,
+      "name": "Hisui-Baldorfish"
+    },
+    {
+      "pokemon_species_id": 10235,
+      "name": "Hisui-Sniebel"
+    },
+    {
+      "pokemon_species_id": 10236,
+      "name": "Hisui-Admurai"
+    },
+    {
+      "pokemon_species_id": 10237,
+      "name": "Hisui-Dressella"
+    },
+    {
+      "pokemon_species_id": 10238,
+      "name": "Hisui-Zorua"
+    },
+    {
+      "pokemon_species_id": 10239,
+      "name": "Hisui-Zoroark"
+    },
+    {
+      "pokemon_species_id": 10240,
+      "name": "Hisui-Washakwil"
+    },
+    {
+      "pokemon_species_id": 10241,
+      "name": "Hisui-Viscargot"
+    },
+    {
+      "pokemon_species_id": 10242,
+      "name": "Hisui-Viscogon"
+    },
+    {
+      "pokemon_species_id": 10243,
+      "name": "Hisui-Arktilas"
+    },
+    {
+      "pokemon_species_id": 10244,
+      "name": "Hisui-Silvarro"
+    },
+    {
+      "pokemon_species_id": 10245,
+      "name": "Dialga Urform"
+    },
+    {
+      "pokemon_species_id": 10246,
+      "name": "Palkia Urform"
+    },
+    {
+      "pokemon_species_id": 10247,
+      "name": "Barschuft weißlinig"
+    },
+    {
+      "pokemon_species_id": 10248,
+      "name": "Salmagnis weiblich"
+    },
+    {
+      "pokemon_species_id": 10249,
+      "name": "Cupidos Tiergeistform"
+    },
+    {
+      "pokemon_species_id": 10250,
+      "name": "Paldea-Tauros Gefechtvariante"
+    },
+    {
+      "pokemon_species_id": 10251,
+      "name": "Paldea-Tauros Flammenvariante"
+    },
+    {
+      "pokemon_species_id": 10252,
+      "name": "Paldea-Tauros Flutenvariante"
+    },
+    {
+      "pokemon_species_id": 10253,
+      "name": "Paldea-Felino"
+    },
+    {
+      "pokemon_species_id": 10254,
+      "name": "Fragrunz weiblich"
+    },
+    {
+      "pokemon_species_id": 10255,
+      "name": "Dummimisel Dreisegmentform"
+    },
+    {
+      "pokemon_species_id": 10256,
+      "name": "Delfinator Heldenform"
+    },
+    {
+      "pokemon_species_id": 10257,
+      "name": "Famieps Dreierfamilie"
+    },
+    {
+      "pokemon_species_id": 10258,
+      "name": "Nigiragi hängende Form"
+    },
+    {
+      "pokemon_species_id": 10259,
+      "name": "Nigiragi gestreckte Form"
+    },
+    {
+      "pokemon_species_id": 10260,
+      "name": "Krawalloro blaugefiedert"
+    },
+    {
+      "pokemon_species_id": 10261,
+      "name": "Krawalloro gelbgefiedert"
+    },
+    {
+      "pokemon_species_id": 10262,
+      "name": "Krawalloro weißgefiedert"
+    },
+    {
+      "pokemon_species_id": 10263,
+      "name": "Gierspenst Wanderform"
+    },
+    {
+      "pokemon_species_id": 10264,
+      "name": "Koraidon gehemmte Gestalt"
+    },
+    {
+      "pokemon_species_id": 10265,
+      "name": "Koraidon Sprintgestalt"
+    },
+    {
+      "pokemon_species_id": 10266,
+      "name": "Koraidon Schwimmgestalt"
+    },
+    {
+      "pokemon_species_id": 10267,
+      "name": "Koraidon Schwingengestalt"
+    },
+    {
+      "pokemon_species_id": 10268,
+      "name": "Miraidon begrenzter Modus"
+    },
+    {
+      "pokemon_species_id": 10269,
+      "name": "Miraidon Fahrmodus"
+    },
+    {
+      "pokemon_species_id": 10270,
+      "name": "Miraidon Wassermodus"
+    },
+    {
+      "pokemon_species_id": 10271,
+      "name": "Miraidon Gleitmodus"
+    },
+    {
+      "pokemon_species_id": 10272,
+      "name": "Ursaluna Blutmond"
+    },
+    {
+      "pokemon_species_id": 10273,
+      "name": "Ogerpon Brunnenmaske"
+    },
+    {
+      "pokemon_species_id": 10274,
+      "name": "Ogerpon Ofenmaske"
+    },
+    {
+      "pokemon_species_id": 10275,
+      "name": "Ogerpon Fundamentmaske"
+    },
+    {
+      "pokemon_species_id": 10276,
+      "name": "Terapagos Terakristallform"
+    },
+    {
+      "pokemon_species_id": 10277,
+      "name": "Terapagos Stellarform"
+    },
+    {
+      "pokemon_species_id": 10278,
+      "name": "Quabbel weiblich"
+    },
+    {
+      "pokemon_species_id": 10279,
+      "name": "Apoquallyp weiblich"
+    },  
+    {
       "pokemon_species_id": "422-east",
-      "name": "Schalellos Ost"
+      "name": "Schalellos Östliches Meer"
     },
     {
       "pokemon_species_id": "423-east",
-      "name": "Gastrodon Ost"
-    },
-    {
-      "pokemon_species_id": "550-blue-striped",
-      "name": "Barschuft Blaulinig"
+      "name": "Gastrodon Östliches Meer"
     },
     {
       "pokemon_species_id": "585-summer",
@@ -4142,17 +5146,5 @@
     {
       "pokemon_species_id": "586-winter",
       "name": "Kronjuwild Winter"
-    },
-    {
-      "pokemon_species_id": 10091,
-      "name": "Rattfratz Alola"
-    },
-    {
-      "pokemon_species_id": 10092,
-      "name": "Rattikarl Alola"
-    },
-    {
-      "pokemon_species_id": 10184,
-      "name": "Riffex Tiefform"
     }
    ]

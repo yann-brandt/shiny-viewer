@@ -8,14 +8,14 @@ body {
     display: grid;
     background-color: royalblue;
     grid-template-columns: 60% 17.5% 17.5% 5%;
-    grid-template-rows: 1fr 90%;
+    grid-template-rows: 10vh 90%;
     grid-template-areas:    "input clear wiki rezepte"
                             "sprites sprites sprites sprites";
 
 }
 
 body * {
-    font-size: 2.5vh;
+    font-size: 1.5em;
     }
 
 @media only screen and (max-width: 768px) {
@@ -23,7 +23,7 @@ body * {
     }
 
     body * {
-        font-size: 1.8vh;
+        font-size: 1.6em;
     }
 }
 
